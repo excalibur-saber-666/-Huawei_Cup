@@ -225,5 +225,209 @@
 <!-- AUTO-GENERATED START -->
 ## 已审核经验卡映射
 
-当前没有由经验卡标记为 complete/partial 且可自动汇总的语义条目。自动脚本不会从 pending 条目推断内容。
+> 下列映射直接来自 semantic_index.csv 中 complete/partial 条目；使用时仍应回看经验卡与 source_md。
+
+### MCS/NSS分类
+
+- B24104760033（partial）：[经验卡](../paper_notes/2024/B/B24104760033.md) · [source_md](../knowledge_base/2024/B/B24104760033.md)
+
+### 不平衡多分类
+
+- B24103530099（partial）：[经验卡](../paper_notes/2024/B/B24103530099.md) · [source_md](../knowledge_base/2024/B/B24103530099.md)
+
+### 不确定性优化
+
+- A24102940057（partial）：[经验卡](../paper_notes/2024/A/A24102940057.md) · [source_md](../knowledge_base/2024/A/A24102940057.md)
+
+### 代理指标
+
+- A24107120016（partial）：[经验卡](../paper_notes/2024/A/A24107120016.md) · [source_md](../knowledge_base/2024/A/A24107120016.md)
+
+### 分段回归
+
+- A24103530117（partial）：[经验卡](../paper_notes/2024/A/A24103530117.md) · [source_md](../knowledge_base/2024/A/A24103530117.md)
+
+### 分组回归
+
+- C24102890089（partial）：[经验卡](../paper_notes/2024/C/C24102890089.md) · [source_md](../knowledge_base/2024/C/C24102890089.md)
+
+### 分解协调
+
+- A24103530117（partial）：[经验卡](../paper_notes/2024/A/A24103530117.md) · [source_md](../knowledge_base/2024/A/A24103530117.md)
+
+### 发送时长回归
+
+- B24103530099（partial）：[经验卡](../paper_notes/2024/B/B24103530099.md) · [source_md](../knowledge_base/2024/B/B24103530099.md)
+
+### 可解释分类
+
+- C24103860012（partial）：[经验卡](../paper_notes/2024/C/C24103860012.md) · [source_md](../knowledge_base/2024/C/C24103860012.md)
+
+### 吞吐量回归
+
+- B24104760033（partial）：[经验卡](../paper_notes/2024/B/B24104760033.md) · [source_md](../knowledge_base/2024/B/B24104760033.md)
+
+### 噪声分类
+
+- C24106130096（partial）：[经验卡](../paper_notes/2024/C/C24106130096.md) · [source_md](../knowledge_base/2024/C/C24106130096.md)
+
+### 回归
+
+- B24116640167（partial）：[经验卡](../paper_notes/2024/B/B24116640167.md) · [source_md](../knowledge_base/2024/B/B24116640167.md)
+
+### 因素分析
+
+- C24102890089（partial）：[经验卡](../paper_notes/2024/C/C24102890089.md) · [source_md](../knowledge_base/2024/C/C24102890089.md)
+
+### 在线估计
+
+- A24103350007（partial）：[经验卡](../paper_notes/2024/A/A24103350007.md) · [source_md](../knowledge_base/2024/A/A24103350007.md)
+
+### 在线指标
+
+- A24102940057（partial）：[经验卡](../paper_notes/2024/A/A24102940057.md) · [source_md](../knowledge_base/2024/A/A24102940057.md)
+
+### 在线计数
+
+- A24103530117（partial）：[经验卡](../paper_notes/2024/A/A24103530117.md) · [source_md](../knowledge_base/2024/A/A24103530117.md)
+
+### 多因素分析
+
+- C24106130096（partial）：[经验卡](../paper_notes/2024/C/C24106130096.md) · [source_md](../knowledge_base/2024/C/C24106130096.md)
+
+### 多模型回归
+
+- B24104760033（partial）：[经验卡](../paper_notes/2024/B/B24104760033.md) · [source_md](../knowledge_base/2024/B/B24104760033.md)
+
+### 多目标优化
+
+- C24102890089（partial）：[经验卡](../paper_notes/2024/C/C24102890089.md) · [source_md](../knowledge_base/2024/C/C24102890089.md)
+- C24104220149（partial）：[经验卡](../paper_notes/2024/C/C24104220149.md) · [source_md](../knowledge_base/2024/C/C24104220149.md)
+
+### 多目标调度
+
+- A24103350007（partial）：[经验卡](../paper_notes/2024/A/A24103350007.md) · [source_md](../knowledge_base/2024/A/A24103350007.md)
+
+### 序列回归
+
+- A24103350007（partial）：[经验卡](../paper_notes/2024/A/A24103350007.md) · [source_md](../knowledge_base/2024/A/A24103350007.md)
+
+### 影响因素分析
+
+- D24103850092（partial）：[经验卡](../paper_notes/2024/D/D24103850092.md) · [source_md](../knowledge_base/2024/D/D24103850092.md)
+
+### 方差分析
+
+- C24103860012（partial）：[经验卡](../paper_notes/2024/C/C24103860012.md) · [source_md](../knowledge_base/2024/C/C24103860012.md)
+
+### 时序预测
+
+- D24103850092（partial）：[经验卡](../paper_notes/2024/D/D24103850092.md) · [source_md](../knowledge_base/2024/D/D24103850092.md)
+
+### 时空描述
+
+- D24103850092（partial）：[经验卡](../paper_notes/2024/D/D24103850092.md) · [source_md](../knowledge_base/2024/D/D24103850092.md)
+
+### 时频特征分类
+
+- C24104220149（partial）：[经验卡](../paper_notes/2024/C/C24104220149.md) · [source_md](../knowledge_base/2024/C/C24104220149.md)
+
+### 机理修正
+
+- A24107120016（partial）：[经验卡](../paper_notes/2024/A/A24107120016.md) · [source_md](../knowledge_base/2024/A/A24107120016.md)
+
+### 机理回归
+
+- A24102940057（partial）：[经验卡](../paper_notes/2024/A/A24102940057.md) · [source_md](../knowledge_base/2024/A/A24102940057.md)
+
+### 机理增强回归
+
+- C24103860012（partial）：[经验卡](../paper_notes/2024/C/C24103860012.md) · [source_md](../knowledge_base/2024/C/C24103860012.md)
+
+### 机理经验式
+
+- C24106130096（partial）：[经验卡](../paper_notes/2024/C/C24106130096.md) · [source_md](../knowledge_base/2024/C/C24106130096.md)
+
+### 机理近似与回归混合
+
+- B24116640167（partial）：[经验卡](../paper_notes/2024/B/B24116640167.md) · [source_md](../knowledge_base/2024/B/B24116640167.md)
+
+### 模型预测控制
+
+- A24103530117（partial）：[经验卡](../paper_notes/2024/A/A24103530117.md) · [source_md](../knowledge_base/2024/A/A24103530117.md)
+
+### 波形分类
+
+- C24102890089（partial）：[经验卡](../paper_notes/2024/C/C24102890089.md) · [source_md](../knowledge_base/2024/C/C24102890089.md)
+
+### 深度回归
+
+- C24104220149（partial）：[经验卡](../paper_notes/2024/C/C24104220149.md) · [source_md](../knowledge_base/2024/C/C24104220149.md)
+
+### 混合变量优化
+
+- C24103860012（partial）：[经验卡](../paper_notes/2024/C/C24103860012.md) · [source_md](../knowledge_base/2024/C/C24103860012.md)
+- C24106130096（partial）：[经验卡](../paper_notes/2024/C/C24106130096.md) · [source_md](../knowledge_base/2024/C/C24106130096.md)
+
+### 滤波预测
+
+- A24107120016（partial）：[经验卡](../paper_notes/2024/A/A24107120016.md) · [source_md](../knowledge_base/2024/A/A24107120016.md)
+
+### 空间统计
+
+- D24103850092（partial）：[经验卡](../paper_notes/2024/D/D24103850092.md) · [source_md](../knowledge_base/2024/D/D24103850092.md)
+
+### 系统吞吐量回归
+
+- B24102860287（partial）：[经验卡](../paper_notes/2024/B/B24102860287.md) · [source_md](../knowledge_base/2024/B/B24102860287.md)
+
+### 级联回归
+
+- B24103530099（partial）：[经验卡](../paper_notes/2024/B/B24103530099.md) · [source_md](../knowledge_base/2024/B/B24103530099.md)
+
+### 经验式修正
+
+- C24102890089（partial）：[经验卡](../paper_notes/2024/C/C24102890089.md) · [source_md](../knowledge_base/2024/C/C24102890089.md)
+- C24103860012（partial）：[经验卡](../paper_notes/2024/C/C24103860012.md) · [source_md](../knowledge_base/2024/C/C24103860012.md)
+
+### 结构化分类
+
+- B24102860287（partial）：[经验卡](../paper_notes/2024/B/B24102860287.md) · [source_md](../knowledge_base/2024/B/B24102860287.md)
+
+### 结构化离散输出
+
+- B24116640167（partial）：[经验卡](../paper_notes/2024/B/B24116640167.md) · [source_md](../knowledge_base/2024/B/B24116640167.md)
+
+### 结构约束回归
+
+- C24106130096（partial）：[经验卡](../paper_notes/2024/C/C24106130096.md) · [source_md](../knowledge_base/2024/C/C24106130096.md)
+
+### 综合评价
+
+- D24103850092（partial）：[经验卡](../paper_notes/2024/D/D24103850092.md) · [source_md](../knowledge_base/2024/D/D24103850092.md)
+
+### 缺失修复
+
+- A24103350007（partial）：[经验卡](../paper_notes/2024/A/A24103350007.md) · [source_md](../knowledge_base/2024/A/A24103350007.md)
+
+### 表格回归
+
+- B24102860287（partial）：[经验卡](../paper_notes/2024/B/B24102860287.md) · [source_md](../knowledge_base/2024/B/B24102860287.md)
+
+### 资源分配
+
+- A24107120016（partial）：[经验卡](../paper_notes/2024/A/A24107120016.md) · [source_md](../knowledge_base/2024/A/A24107120016.md)
+
+### 连续动作调度
+
+- A24102940057（partial）：[经验卡](../paper_notes/2024/A/A24102940057.md) · [source_md](../knowledge_base/2024/A/A24102940057.md)
+
+### 非参数检验
+
+- C24104220149（partial）：[经验卡](../paper_notes/2024/C/C24104220149.md) · [source_md](../knowledge_base/2024/C/C24104220149.md)
+
+### 非线性经验式
+
+- C24104220149（partial）：[经验卡](../paper_notes/2024/C/C24104220149.md) · [source_md](../knowledge_base/2024/C/C24104220149.md)
+
 <!-- AUTO-GENERATED END -->

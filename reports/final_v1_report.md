@@ -2,6 +2,8 @@
 
 生成日期：2026-09-17
 
+> 本报告记录 V1 初次落库时的历史快照，因此下文 `partial=0 / pending=145` 不代表当前审阅进度。当前状态请以 [2024—2025 优秀论文精读进度](2024_2025_deep_reading_progress.md) 和 `metadata/semantic_index.csv` 为准。
+
 ## 结论
 
 **资料库 V1 架构完成。**
