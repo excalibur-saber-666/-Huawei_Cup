@@ -115,6 +115,10 @@
 
 - E24102910005（partial）：[经验卡](../paper_notes/2024/E/E24102910005.md) · [source_md](../knowledge_base/2024/E/E24102910005.md)
 
+### 代理标签
+
+- 2025-D-002（partial）：[经验卡](../paper_notes/2025/D/2025-D-002.md) · [source_md](../knowledge_base/2025/D/D%E9%A2%98-%E5%9F%BA%E4%BA%8E%E5%A4%9A%E6%BA%90%E6%95%B0%E6%8D%AE%E8%9E%8D%E5%90%88%E7%9A%84%E4%BD%8E%E7%A9%BA%E6%B9%8D%E6%B5%81%E7%9B%91%E6%B5%8B%E4%B8%8E%E8%88%AA%E8%B7%AF%E4%BC%98%E5%8C%96.md)
+
 ### 全局约束
 
 - A24103530117（partial）：[经验卡](../paper_notes/2024/A/A24103530117.md) · [source_md](../knowledge_base/2024/A/A24103530117.md)
@@ -146,6 +150,10 @@
 ### 可行性检查
 
 - A24107120016（partial）：[经验卡](../paper_notes/2024/A/A24107120016.md) · [source_md](../knowledge_base/2024/A/A24107120016.md)
+
+### 各向异性
+
+- 2025-D-002（partial）：[经验卡](../paper_notes/2025/D/2025-D-002.md) · [source_md](../knowledge_base/2025/D/D%E9%A2%98-%E5%9F%BA%E4%BA%8E%E5%A4%9A%E6%BA%90%E6%95%B0%E6%8D%AE%E8%9E%8D%E5%90%88%E7%9A%84%E4%BD%8E%E7%A9%BA%E6%B9%8D%E6%B5%81%E7%9B%91%E6%B5%8B%E4%B8%8E%E8%88%AA%E8%B7%AF%E4%BC%98%E5%8C%96.md)
 
 ### 合法组合映射
 
@@ -215,6 +223,10 @@
 
 - F24910020063（partial）：[经验卡](../paper_notes/2024/F/F24910020063.md) · [source_md](../knowledge_base/2024/F/F24910020063.md)
 
+### 数据同化
+
+- 2025-D-002（partial）：[经验卡](../paper_notes/2025/D/2025-D-002.md) · [source_md](../knowledge_base/2025/D/D%E9%A2%98-%E5%9F%BA%E4%BA%8E%E5%A4%9A%E6%BA%90%E6%95%B0%E6%8D%AE%E8%9E%8D%E5%90%88%E7%9A%84%E4%BD%8E%E7%A9%BA%E6%B9%8D%E6%B5%81%E7%9B%91%E6%B5%8B%E4%B8%8E%E8%88%AA%E8%B7%AF%E4%BC%98%E5%8C%96.md)
+
 ### 时序泄漏
 
 - E24102910005（partial）：[经验卡](../paper_notes/2024/E/E24102910005.md) · [source_md](../knowledge_base/2024/E/E24102910005.md)
@@ -222,6 +234,10 @@
 ### 时标与参考系
 
 - F24910020063（partial）：[经验卡](../paper_notes/2024/F/F24910020063.md) · [source_md](../knowledge_base/2024/F/F24910020063.md)
+
+### 时空对齐
+
+- 2025-D-002（partial）：[经验卡](../paper_notes/2025/D/2025-D-002.md) · [source_md](../knowledge_base/2025/D/D%E9%A2%98-%E5%9F%BA%E4%BA%8E%E5%A4%9A%E6%BA%90%E6%95%B0%E6%8D%AE%E8%9E%8D%E5%90%88%E7%9A%84%E4%BD%8E%E7%A9%BA%E6%B9%8D%E6%B5%81%E7%9B%91%E6%B5%8B%E4%B8%8E%E8%88%AA%E8%B7%AF%E4%BC%98%E5%8C%96.md)
 
 ### 时空尺度
 
@@ -258,6 +274,10 @@
 ### 滚动优化
 
 - A24103530117（partial）：[经验卡](../paper_notes/2024/A/A24103530117.md) · [source_md](../knowledge_base/2024/A/A24103530117.md)
+
+### 滚动预报
+
+- 2025-D-002（partial）：[经验卡](../paper_notes/2025/D/2025-D-002.md) · [source_md](../knowledge_base/2025/D/D%E9%A2%98-%E5%9F%BA%E4%BA%8E%E5%A4%9A%E6%BA%90%E6%95%B0%E6%8D%AE%E8%9E%8D%E5%90%88%E7%9A%84%E4%BD%8E%E7%A9%BA%E6%B9%8D%E6%B5%81%E7%9B%91%E6%B5%8B%E4%B8%8E%E8%88%AA%E8%B7%AF%E4%BC%98%E5%8C%96.md)
 
 ### 滞后特征
 
@@ -340,6 +360,14 @@
 
 - A24103530117（partial）：[经验卡](../paper_notes/2024/A/A24103530117.md) · [source_md](../knowledge_base/2024/A/A24103530117.md)
 
+### 虚拟传感器
+
+- 2025-D-002（partial）：[经验卡](../paper_notes/2025/D/2025-D-002.md) · [source_md](../knowledge_base/2025/D/D%E9%A2%98-%E5%9F%BA%E4%BA%8E%E5%A4%9A%E6%BA%90%E6%95%B0%E6%8D%AE%E8%9E%8D%E5%90%88%E7%9A%84%E4%BD%8E%E7%A9%BA%E6%B9%8D%E6%B5%81%E7%9B%91%E6%B5%8B%E4%B8%8E%E8%88%AA%E8%B7%AF%E4%BC%98%E5%8C%96.md)
+
+### 观测算子
+
+- 2025-D-002（partial）：[经验卡](../paper_notes/2025/D/2025-D-002.md) · [source_md](../knowledge_base/2025/D/D%E9%A2%98-%E5%9F%BA%E4%BA%8E%E5%A4%9A%E6%BA%90%E6%95%B0%E6%8D%AE%E8%9E%8D%E5%90%88%E7%9A%84%E4%BD%8E%E7%A9%BA%E6%B9%8D%E6%B5%81%E7%9B%91%E6%B5%8B%E4%B8%8E%E8%88%AA%E8%B7%AF%E4%BC%98%E5%8C%96.md)
+
 ### 视频标定
 
 - E24102910005（partial）：[经验卡](../paper_notes/2024/E/E24102910005.md) · [source_md](../knowledge_base/2024/E/E24102910005.md)
@@ -383,5 +411,9 @@
 ### 鲁棒调度
 
 - A24102940057（partial）：[经验卡](../paper_notes/2024/A/A24102940057.md) · [source_md](../knowledge_base/2024/A/A24102940057.md)
+
+### 鲁棒路径规划
+
+- 2025-D-002（partial）：[经验卡](../paper_notes/2025/D/2025-D-002.md) · [source_md](../knowledge_base/2025/D/D%E9%A2%98-%E5%9F%BA%E4%BA%8E%E5%A4%9A%E6%BA%90%E6%95%B0%E6%8D%AE%E8%9E%8D%E5%90%88%E7%9A%84%E4%BD%8E%E7%A9%BA%E6%B9%8D%E6%B5%81%E7%9B%91%E6%B5%8B%E4%B8%8E%E8%88%AA%E8%B7%AF%E4%BC%98%E5%8C%96.md)
 
 <!-- AUTO-GENERATED END -->
