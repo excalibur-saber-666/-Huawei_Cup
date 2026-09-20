@@ -119,6 +119,10 @@
 
 - 2025-D-002（partial）：[经验卡](../paper_notes/2025/D/2025-D-002.md) · [source_md](../knowledge_base/2025/D/D%E9%A2%98-%E5%9F%BA%E4%BA%8E%E5%A4%9A%E6%BA%90%E6%95%B0%E6%8D%AE%E8%9E%8D%E5%90%88%E7%9A%84%E4%BD%8E%E7%A9%BA%E6%B9%8D%E6%B5%81%E7%9B%91%E6%B5%8B%E4%B8%8E%E8%88%AA%E8%B7%AF%E4%BC%98%E5%8C%96.md)
 
+### 代理量
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
 ### 全局约束
 
 - A24103530117（partial）：[经验卡](../paper_notes/2024/A/A24103530117.md) · [source_md](../knowledge_base/2024/A/A24103530117.md)
@@ -196,6 +200,10 @@
 
 - F24910020063（partial）：[经验卡](../paper_notes/2024/F/F24910020063.md) · [source_md](../knowledge_base/2024/F/F24910020063.md)
 
+### 外部效度
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
 ### 多基线比较
 
 - B24104760033（partial）：[经验卡](../paper_notes/2024/B/B24104760033.md) · [source_md](../knowledge_base/2024/B/B24104760033.md)
@@ -219,6 +227,10 @@
 ### 序列结构
 
 - B24116640167（partial）：[经验卡](../paper_notes/2024/B/B24116640167.md) · [source_md](../knowledge_base/2024/B/B24116640167.md)
+
+### 开合序列
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
 
 ### 开集拒识
 
@@ -272,6 +284,18 @@
 
 - C24103860012（partial）：[经验卡](../paper_notes/2024/C/C24103860012.md) · [source_md](../knowledge_base/2024/C/C24103860012.md)
 
+### 权重
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
+### 构念效度
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
+### 概念操作化
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
 ### 欠定逆问题
 
 - 2025-C-005（partial）：[经验卡](../paper_notes/2025/C/2025-C-005.md) · [source_md](../knowledge_base/2025/C/C%E9%A2%98-%E5%9F%BA%E4%BA%8E%E9%92%BB%E5%AD%94%E8%A3%82%E9%9A%99%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E7%9A%84%E5%B2%A9%E4%BD%93%E7%BB%93%E6%9E%84%E9%9D%A2%E7%BD%91%E7%BB%9C%E9%87%8D%E6%9E%84%E4%B8%8E%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%86%E5%8C%BA%E7%A0%94%E7%A9%B6.md)
@@ -323,6 +347,10 @@
 ### 空间泄漏
 
 - D24103850092（partial）：[经验卡](../paper_notes/2024/D/D24103850092.md) · [source_md](../knowledge_base/2024/D/D24103850092.md)
+
+### 空间相邻
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
 
 ### 窗口代理
 
@@ -421,6 +449,10 @@
 
 - B24103530099（partial）：[经验卡](../paper_notes/2024/B/B24103530099.md) · [source_md](../knowledge_base/2024/B/B24103530099.md)
 
+### 适宜度
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
 ### 选择泄漏
 
 - C24103860012（partial）：[经验卡](../paper_notes/2024/C/C24103860012.md) · [source_md](../knowledge_base/2024/C/C24103860012.md)
@@ -440,6 +472,10 @@
 ### 阈值过拟合
 
 - E24102910005（partial）：[经验卡](../paper_notes/2024/E/E24102910005.md) · [source_md](../knowledge_base/2024/E/E24102910005.md)
+
+### 非补偿性
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
 
 ### 鲁棒调度
 

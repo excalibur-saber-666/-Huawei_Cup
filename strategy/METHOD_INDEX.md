@@ -221,6 +221,14 @@
 - 2025-E-003（partial）：[经验卡](../paper_notes/2025/E/2025-E-003.md) · [source_md](../knowledge_base/2025/E/E%E9%A2%98-%E9%AB%98%E9%80%9F%E5%88%97%E8%BD%A6%E8%BD%B4%E6%89%BF%E6%99%BA%E8%83%BD%E6%95%85%E9%9A%9C%E8%AF%8A%E6%96%AD%E9%97%AE%E9%A2%98.md)
 - B24103530099（partial）：[经验卡](../paper_notes/2024/B/B24103530099.md) · [source_md](../knowledge_base/2024/B/B24103530099.md)
 
+### GEPG-IGA
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
+### GMM
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
 ### Goodman修正
 
 - A24107120016（partial）：[经验卡](../paper_notes/2024/A/A24107120016.md) · [source_md](../knowledge_base/2024/A/A24107120016.md)
@@ -253,6 +261,10 @@
 
 - 2025-B-003（partial）：[经验卡](../paper_notes/2025/B/2025-B-003.md) · [source_md](../knowledge_base/2025/B/B%E9%A2%98-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A9%B1%E5%8A%A8%E7%9A%84%E9%9D%A2%E5%90%91%20MIMO-OFDM%20%E7%9A%84%E9%93%BE%E8%B7%AF%E9%80%9F%E7%8E%87%E9%A2%84%E6%B5%8B.md)
 
+### Jaccard
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
 ### KNN
 
 - B24104760033（partial）：[经验卡](../paper_notes/2024/B/B24104760033.md) · [source_md](../knowledge_base/2024/B/B24104760033.md)
@@ -260,6 +272,10 @@
 ### Kendall
 
 - B24116640167（partial）：[经验卡](../paper_notes/2024/B/B24116640167.md) · [source_md](../knowledge_base/2024/B/B24116640167.md)
+
+### Kendall tau
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
 
 ### Kruskal-Wallis
 
@@ -282,6 +298,10 @@
 
 - A24103530117（partial）：[经验卡](../paper_notes/2024/A/A24103530117.md) · [source_md](../knowledge_base/2024/A/A24103530117.md)
 
+### MRF
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
 ### Miner准则
 
 - A24102940057（partial）：[经验卡](../paper_notes/2024/A/A24102940057.md) · [source_md](../knowledge_base/2024/A/A24102940057.md)
@@ -299,6 +319,10 @@
 
 - A24103350007（partial）：[经验卡](../paper_notes/2024/A/A24103350007.md) · [source_md](../knowledge_base/2024/A/A24103350007.md)
 - C24104220149（partial）：[经验卡](../paper_notes/2024/C/C24104220149.md) · [source_md](../knowledge_base/2024/C/C24104220149.md)
+
+### NetworkX
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
 
 ### OOF
 
@@ -364,6 +388,10 @@
 - B24116640167（partial）：[经验卡](../paper_notes/2024/B/B24116640167.md) · [source_md](../knowledge_base/2024/B/B24116640167.md)
 - D24103850092（partial）：[经验卡](../paper_notes/2024/D/D24103850092.md) · [source_md](../knowledge_base/2024/D/D24103850092.md)
 
+### Shapely
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
 ### Shapiro
 
 - F24910020063（partial）：[经验卡](../paper_notes/2024/F/F24910020063.md) · [source_md](../knowledge_base/2024/F/F24910020063.md)
@@ -417,6 +445,10 @@
 ### 交通流模型
 
 - E24102910005（partial）：[经验卡](../paper_notes/2024/E/E24102910005.md) · [source_md](../knowledge_base/2024/E/E24102910005.md)
+
+### 余弦相似度
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
 
 ### 共轭梯度
 
@@ -478,6 +510,10 @@
 ### 多目标优化
 
 - 2025-A-001（partial）：[经验卡](../paper_notes/2025/A/2025-A-001.md) · [source_md](../knowledge_base/2025/A/A%E9%A2%98-1-%E9%80%9A%E7%94%A8%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%8B%E7%9A%84%E6%A0%B8%E5%86%85%E8%B0%83%E5%BA%A6%E9%97%AE%E9%A2%98.md)
+
+### 层次聚类
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
 
 ### 序贯优化
 
@@ -555,5 +591,9 @@
 ### 非线性最小二乘
 
 - 2025-C-005（partial）：[经验卡](../paper_notes/2025/C/2025-C-005.md) · [source_md](../knowledge_base/2025/C/C%E9%A2%98-%E5%9F%BA%E4%BA%8E%E9%92%BB%E5%AD%94%E8%A3%82%E9%9A%99%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E7%9A%84%E5%B2%A9%E4%BD%93%E7%BB%93%E6%9E%84%E9%9D%A2%E7%BD%91%E7%BB%9C%E9%87%8D%E6%9E%84%E4%B8%8E%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%86%E5%8C%BA%E7%A0%94%E7%A9%B6.md)
+
+### 骨架化
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
 
 <!-- AUTO-GENERATED END -->

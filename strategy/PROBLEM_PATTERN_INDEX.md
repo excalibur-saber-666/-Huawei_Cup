@@ -323,6 +323,10 @@
 
 - C24102890089（partial）：[经验卡](../paper_notes/2024/C/C24102890089.md) · [source_md](../knowledge_base/2024/C/C24102890089.md)
 
+### 图论路径
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
 ### 在线估计
 
 - A24103350007（partial）：[经验卡](../paper_notes/2024/A/A24103350007.md) · [source_md](../knowledge_base/2024/A/A24103350007.md)
@@ -342,6 +346,10 @@
 ### 域适配
 
 - 2025-B-003（partial）：[经验卡](../paper_notes/2025/B/2025-B-003.md) · [source_md](../knowledge_base/2025/B/B%E9%A2%98-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A9%B1%E5%8A%A8%E7%9A%84%E9%9D%A2%E5%90%91%20MIMO-OFDM%20%E7%9A%84%E9%93%BE%E8%B7%AF%E9%80%9F%E7%8E%87%E9%A2%84%E6%B5%8B.md)
+
+### 外部案例验证
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
 
 ### 多因素分析
 
@@ -391,6 +399,10 @@
 ### 情景模拟
 
 - E24102910005（partial）：[经验卡](../paper_notes/2024/E/E24102910005.md) · [source_md](../knowledge_base/2024/E/E24102910005.md)
+
+### 抽象概念操作化
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
 
 ### 方差分析
 
@@ -493,6 +505,18 @@
 
 - E24102910005（partial）：[经验卡](../paper_notes/2024/E/E24102910005.md) · [source_md](../knowledge_base/2024/E/E24102910005.md)
 
+### 相似度
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
+### 空间几何
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
+### 空间约束聚类
+
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
 ### 空间统计
 
 - D24103850092（partial）：[经验卡](../paper_notes/2024/D/D24103850092.md) · [source_md](../knowledge_base/2024/D/D24103850092.md)
@@ -532,6 +556,7 @@
 
 ### 综合评价
 
+- 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
 - D24103850092（partial）：[经验卡](../paper_notes/2024/D/D24103850092.md) · [source_md](../knowledge_base/2024/D/D24103850092.md)
 
 ### 缓存优化
