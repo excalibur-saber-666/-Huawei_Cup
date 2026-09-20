@@ -58,7 +58,7 @@
 | 方法论 V1 | 完成 |
 | strategy 核心指南 | 完成 |
 | paper_notes 结构 | 完成：145 张 |
-| 逐篇深度语义审阅 | 0 complete / 0 partial / 145 pending |
+| 逐篇深度语义审阅 | 0 complete / 8 partial / 137 pending；已通读 2024 A、B 各 4 篇正文并抽查关键 PDF |
 
 “V1 架构完成”不表示“145 篇论文已完成深度语义分析”。任何 pending 卡都不能作为已确认的方法、结果或创新点。
 
