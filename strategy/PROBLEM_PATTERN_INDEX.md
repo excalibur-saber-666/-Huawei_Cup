@@ -247,6 +247,10 @@
 
 - 2025-C-005（partial）：[经验卡](../paper_notes/2025/C/2025-C-005.md) · [source_md](../knowledge_base/2025/C/C%E9%A2%98-%E5%9F%BA%E4%BA%8E%E9%92%BB%E5%AD%94%E8%A3%82%E9%9A%99%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E7%9A%84%E5%B2%A9%E4%BD%93%E7%BB%93%E6%9E%84%E9%9D%A2%E7%BD%91%E7%BB%9C%E9%87%8D%E6%9E%84%E4%B8%8E%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%86%E5%8C%BA%E7%A0%94%E7%A9%B6.md)
 
+### 三阶段齐头切
+
+- B22100070171（partial）：[经验卡](../paper_notes/2022/B/B22100070171.md) · [source_md](../knowledge_base/2022/B/B22100070171.md)
+
 ### 不平衡多分类
 
 - B24103530099（partial）：[经验卡](../paper_notes/2024/B/B24103530099.md) · [source_md](../knowledge_base/2024/B/B24103530099.md)
@@ -266,6 +270,10 @@
 ### 事件风险
 
 - E23100650012（partial）：[经验卡](../paper_notes/2023/E/E23100650012.md) · [source_md](../knowledge_base/2023/E/E23100650012.md)
+
+### 二维切割
+
+- B22100070171（partial）：[经验卡](../paper_notes/2022/B/B22100070171.md) · [source_md](../knowledge_base/2022/B/B22100070171.md)
 
 ### 交通流预测
 
@@ -310,6 +318,10 @@
 ### 发送时长回归
 
 - B24103530099（partial）：[经验卡](../paper_notes/2024/B/B24103530099.md) · [source_md](../knowledge_base/2024/B/B24103530099.md)
+
+### 受约束聚类
+
+- B22100070171（partial）：[经验卡](../paper_notes/2022/B/B22100070171.md) · [source_md](../knowledge_base/2022/B/B22100070171.md)
 
 ### 可解释分类
 
@@ -594,6 +606,10 @@
 
 - E23100650012（partial）：[经验卡](../paper_notes/2023/E/E23100650012.md) · [source_md](../knowledge_base/2023/E/E23100650012.md)
 
+### 组合优化
+
+- B22100070171（partial）：[经验卡](../paper_notes/2022/B/B22100070171.md) · [source_md](../knowledge_base/2022/B/B22100070171.md)
+
 ### 经验式修正
 
 - C24102890089（partial）：[经验卡](../paper_notes/2024/C/C24102890089.md) · [source_md](../knowledge_base/2024/C/C24102890089.md)
@@ -652,6 +668,14 @@
 
 - A24107120016（partial）：[经验卡](../paper_notes/2024/A/A24107120016.md) · [source_md](../knowledge_base/2024/A/A24107120016.md)
 
+### 超分辨定位
+
+- A22100070190（partial）：[经验卡](../paper_notes/2022/A/A22100070190.md) · [source_md](../knowledge_base/2022/A/A22100070190.md)
+
+### 轨迹关联
+
+- A22100070190（partial）：[经验卡](../paper_notes/2022/A/A22100070190.md) · [source_md](../knowledge_base/2022/A/A22100070190.md)
+
 ### 轨道动力学
 
 - F24910020063（partial）：[经验卡](../paper_notes/2024/F/F24910020063.md) · [source_md](../knowledge_base/2024/F/F24910020063.md)
@@ -671,6 +695,10 @@
 ### 阈值决策
 
 - E24102910005（partial）：[经验卡](../paper_notes/2024/E/E24102910005.md) · [source_md](../knowledge_base/2024/E/E24102910005.md)
+
+### 阵列信号处理
+
+- A22100070190（partial）：[经验卡](../paper_notes/2022/A/A22100070190.md) · [source_md](../knowledge_base/2022/A/A22100070190.md)
 
 ### 随机接入
 
@@ -707,5 +735,9 @@
 ### 高维物理数据
 
 - 2025-B-003（partial）：[经验卡](../paper_notes/2025/B/2025-B-003.md) · [source_md](../knowledge_base/2025/B/B%E9%A2%98-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A9%B1%E5%8A%A8%E7%9A%84%E9%9D%A2%E5%90%91%20MIMO-OFDM%20%E7%9A%84%E9%93%BE%E8%B7%AF%E9%80%9F%E7%8E%87%E9%A2%84%E6%B5%8B.md)
+
+### 鲁棒估计
+
+- A22100070190（partial）：[经验卡](../paper_notes/2022/A/A22100070190.md) · [source_md](../knowledge_base/2022/A/A22100070190.md)
 
 <!-- AUTO-GENERATED END -->

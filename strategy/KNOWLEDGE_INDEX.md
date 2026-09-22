@@ -45,9 +45,21 @@
 
 - 2025-A-001（partial）：[经验卡](../paper_notes/2025/A/2025-A-001.md) · [source_md](../knowledge_base/2025/A/A%E9%A2%98-1-%E9%80%9A%E7%94%A8%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%8B%E7%9A%84%E6%A0%B8%E5%86%85%E8%B0%83%E5%BA%A6%E9%97%AE%E9%A2%98.md)
 
+### DOA
+
+- A22100070190（partial）：[经验卡](../paper_notes/2022/A/A22100070190.md) · [source_md](../knowledge_base/2022/A/A22100070190.md)
+
+### FMCW
+
+- A22100070190（partial）：[经验卡](../paper_notes/2022/A/A22100070190.md) · [source_md](../knowledge_base/2022/A/A22100070190.md)
+
 ### JRC
 
 - 2025-C-005（partial）：[经验卡](../paper_notes/2025/C/2025-C-005.md) · [source_md](../knowledge_base/2025/C/C%E9%A2%98-%E5%9F%BA%E4%BA%8E%E9%92%BB%E5%AD%94%E8%A3%82%E9%9A%99%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E7%9A%84%E5%B2%A9%E4%BD%93%E7%BB%93%E6%9E%84%E9%9D%A2%E7%BD%91%E7%BB%9C%E9%87%8D%E6%9E%84%E4%B8%8E%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%86%E5%8C%BA%E7%A0%94%E7%A9%B6.md)
+
+### MIMO
+
+- A22100070190（partial）：[经验卡](../paper_notes/2022/A/A22100070190.md) · [source_md](../knowledge_base/2022/A/A22100070190.md)
 
 ### MIMO-OFDM
 
@@ -127,6 +139,10 @@
 
 - D24103850092（partial）：[经验卡](../paper_notes/2024/D/D24103850092.md) · [source_md](../knowledge_base/2024/D/D24103850092.md)
 
+### 二维装箱
+
+- B22100070171（partial）：[经验卡](../paper_notes/2022/B/B22100070171.md) · [source_md](../knowledge_base/2022/B/B22100070171.md)
+
 ### 交互与分组均值
 
 - C24104220149（partial）：[经验卡](../paper_notes/2024/C/C24104220149.md) · [source_md](../knowledge_base/2024/C/C24104220149.md)
@@ -179,6 +195,10 @@
 ### 分组模型
 
 - C24102890089（partial）：[经验卡](../paper_notes/2024/C/C24102890089.md) · [source_md](../knowledge_base/2024/C/C24102890089.md)
+
+### 切割库存
+
+- B22100070171（partial）：[经验卡](../paper_notes/2022/B/B22100070171.md) · [source_md](../knowledge_base/2022/B/B22100070171.md)
 
 ### 协变量混杂
 
@@ -261,6 +281,10 @@
 
 - 2025-A-001（partial）：[经验卡](../paper_notes/2025/A/2025-A-001.md) · [source_md](../knowledge_base/2025/A/A%E9%A2%98-1-%E9%80%9A%E7%94%A8%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%8B%E7%9A%84%E6%A0%B8%E5%86%85%E8%B0%83%E5%BA%A6%E9%97%AE%E9%A2%98.md)
 
+### 多视角几何
+
+- A22100070190（partial）：[经验卡](../paper_notes/2022/A/A22100070190.md) · [source_md](../knowledge_base/2022/A/A22100070190.md)
+
 ### 多重比较
 
 - C24106130096（partial）：[经验卡](../paper_notes/2024/C/C24106130096.md) · [source_md](../knowledge_base/2024/C/C24106130096.md)
@@ -272,6 +296,10 @@
 ### 安全约束
 
 - A24102940057（partial）：[经验卡](../paper_notes/2024/A/A24102940057.md) · [source_md](../knowledge_base/2024/A/A24102940057.md)
+
+### 容量约束
+
+- B22100070171（partial）：[经验卡](../paper_notes/2022/B/B22100070171.md) · [source_md](../knowledge_base/2022/B/B22100070171.md)
 
 ### 干扰图
 
@@ -421,6 +449,10 @@
 
 - B24116640167（partial）：[经验卡](../paper_notes/2024/B/B24116640167.md) · [source_md](../knowledge_base/2024/B/B24116640167.md)
 
+### 相干信源
+
+- A22100070190（partial）：[经验卡](../paper_notes/2022/A/A22100070190.md) · [source_md](../knowledge_base/2022/A/A22100070190.md)
+
 ### 硬件复杂度
 
 - B23100070010（partial）：[经验卡](../paper_notes/2023/B/B23100070010.md) · [source_md](../knowledge_base/2023/B/B23100070010.md)
@@ -522,6 +554,10 @@
 
 - 2025-E-003（partial）：[经验卡](../paper_notes/2025/E/2025-E-003.md) · [source_md](../knowledge_base/2025/E/E%E9%A2%98-%E9%AB%98%E9%80%9F%E5%88%97%E8%BD%A6%E8%BD%B4%E6%89%BF%E6%99%BA%E8%83%BD%E6%95%85%E9%9A%9C%E8%AF%8A%E6%96%AD%E9%97%AE%E9%A2%98.md)
 
+### 订单组批
+
+- B22100070171（partial）：[经验卡](../paper_notes/2022/B/B22100070171.md) · [source_md](../knowledge_base/2022/B/B22100070171.md)
+
 ### 评委偏差
 
 - C23102540029（partial）：[经验卡](../paper_notes/2023/C/C23102540029.md) · [source_md](../knowledge_base/2023/C/C23102540029.md)
@@ -537,6 +573,10 @@
 ### 趋势-残差分解
 
 - 2025-C-005（partial）：[经验卡](../paper_notes/2025/C/2025-C-005.md) · [source_md](../knowledge_base/2025/C/C%E9%A2%98-%E5%9F%BA%E4%BA%8E%E9%92%BB%E5%AD%94%E8%A3%82%E9%9A%99%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E7%9A%84%E5%B2%A9%E4%BD%93%E7%BB%93%E6%9E%84%E9%9D%A2%E7%BD%91%E7%BB%9C%E9%87%8D%E6%9E%84%E4%B8%8E%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%86%E5%8C%BA%E7%A0%94%E7%A9%B6.md)
+
+### 距离分辨率
+
+- A22100070190（partial）：[经验卡](../paper_notes/2022/A/A22100070190.md) · [source_md](../knowledge_base/2022/A/A22100070190.md)
 
 ### 跨窗循环
 
@@ -601,5 +641,9 @@
 ### 鲁棒路径规划
 
 - 2025-D-002（partial）：[经验卡](../paper_notes/2025/D/2025-D-002.md) · [source_md](../knowledge_base/2025/D/D%E9%A2%98-%E5%9F%BA%E4%BA%8E%E5%A4%9A%E6%BA%90%E6%95%B0%E6%8D%AE%E8%9E%8D%E5%90%88%E7%9A%84%E4%BD%8E%E7%A9%BA%E6%B9%8D%E6%B5%81%E7%9B%91%E6%B5%8B%E4%B8%8E%E8%88%AA%E8%B7%AF%E4%BC%98%E5%8C%96.md)
+
+### 齐头切
+
+- B22100070171（partial）：[经验卡](../paper_notes/2022/B/B22100070171.md) · [source_md](../knowledge_base/2022/B/B22100070171.md)
 
 <!-- AUTO-GENERATED END -->
