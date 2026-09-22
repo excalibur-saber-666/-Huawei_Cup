@@ -17,7 +17,7 @@
 - [题型索引](strategy/PROBLEM_PATTERN_INDEX.md) · [方法索引](strategy/METHOD_INDEX.md) · [知识领域入口](strategy/KNOWLEDGE_INDEX.md)
 - [验证指南](strategy/VALIDATION_GUIDE.md) · [可解释性指南](strategy/EXPLAINABILITY_GUIDE.md) · [写作指南](strategy/WRITING_GUIDE.md) · [图表与机制图指南](strategy/FIGURE_DIAGRAM_GUIDE.md)
 - [24 个赛题单元证据矩阵](strategy/ANNUAL_QUESTION_EVIDENCE_MATRIX.md) · [已核对案例](strategy/EVIDENCE_CASES.md) · [比赛十阶段工作流](strategy/COMPETITION_WORKFLOW.md)
-- [同题横向比较卡](question_notes/README.md) · [V1 最终报告](reports/final_v1_report.md)
+- [同题横向比较卡](question_notes/README.md) · [2023 建模与写作方法总结](strategy/2023_MODELING_LESSONS.md) · [V1 最终报告](reports/final_v1_report.md)
 
 ## 比赛推荐使用流程
 
@@ -43,8 +43,8 @@
 
 - papers/：145 份原始 PDF，是公式、图形、复杂表格和精确页码的最终依据。
 - knowledge_base/：145 份 MarkItDown 转换正文，用于搜索、通读与初筛。
-- paper_notes/：145 张可追溯经验卡；其中 21 张已完成本轮 `partial` 精读，其余待审阅。当前后续口径为每题精读 1 篇代表论文，其余只做概览且不计入 partial。
-- question_notes/：同题论文比较；当前有 2024 A—C 三张完整同题横向卡，2024 D—F、2025 A—F 九张代表性精读题级卡。2024—2025 每个赛题均至少精读 1 篇代表论文。
+- paper_notes/：145 张可追溯经验卡；其中 27 张已完成本轮 `partial` 精读，其余待审阅。当前后续口径为每题精读 1 篇代表论文，其余只做概览且不计入 partial。
+- question_notes/：同题论文比较；当前有 2024 A—C 三张完整同题横向卡，以及 2023 A—F、2024 D—F、2025 A—F 共 15 张代表性精读题级卡。2023—2025 每个赛题均至少精读 1 篇代表论文。
 - strategy/：通用方法论和比赛指南；不等同于 145 篇论文的频率统计。
 - metadata/：稳定 manifest 与语义审阅队列。
 - reports/：转换、方法论审阅、语义状态与 V1 校验报告。
@@ -58,7 +58,7 @@
 | 方法论 V1 | 完成 |
 | strategy 核心指南 | 完成 |
 | paper_notes 结构 | 完成：145 张 |
-| 逐篇深度语义审阅 | 0 complete / 21 partial / 124 pending；已通读 2024 A、B、C 各 4 篇，2024 D、E、F 与 2025 A、B、C、D、E、F 代表论文各 1 篇，并抽查关键 PDF |
+| 逐篇深度语义审阅 | 0 complete / 27 partial / 118 pending；已通读 2023 A—F、2024 D—F、2025 A—F 代表论文各 1 篇，2024 A、B、C 各 4 篇，并抽查关键 PDF |
 
 “V1 架构完成”不表示“145 篇论文已完成深度语义分析”。任何 pending 卡都不能作为已确认的方法、结果或创新点。
 

@@ -41,7 +41,7 @@ year,question,paper_id,title,problem_types,overall_pipeline,q1_task,q1_methods,q
 2022,F,F22103570053,,,,,,,,,,,,,,,,,,knowledge_base/2022/F/F22103570053.md,papers/2022/F/F22103570053.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2022,F,F22105330345,,,,,,,,,,,,,,,,,,knowledge_base/2022/F/F22105330345.md,papers/2022/F/F22105330345.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2022,F,F22106150018,,,,,,,,,,,,,,,,,,knowledge_base/2022/F/F22106150018.md,papers/2022/F/F22106150018.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
-2023,A,A23100070049,,,,,,,,,,,,,,,,,,knowledge_base/2023/A/A23100070049.md,papers/2023/A/A23100070049.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
+2023,A,A23100070049,WLAN网络信道接入机制建模,随机接入;马尔可夫链;非对称网络;离散事件仿真,感知图/干扰图→退避稳态→吞吐核算→RTS/CTS→离散事件仿真,互听且并发失败,推广Bianchi;最大重传;碰撞概率,互听且并发成功,暴露终端;RTS/CTS收益开销,不互听且并发失败,隐藏终端;自然丢包;脆弱期,三BSS非对称关系,节点级吞吐;感知/干扰集合,Bianchi;Markov;非线性方程;离散事件仿真,载波侦听;干扰图;退避;吞吐;协议开销,理论-仿真对照;参数扫描;场景比较,先基本模型后逐问修正;总路线图与状态流程,区分感知关系与作用关系;复用状态内核,通信协议;随机接入;系统仿真,knowledge_base/2023/A/A23100070049.md,papers/2023/A/A23100070049.pdf,partial,2026-09-22通读正文并核对PDF第2/10/21页,partial,chatgpt_review,2026-09-22
 2023,A,A23102470073,,,,,,,,,,,,,,,,,,knowledge_base/2023/A/A23102470073.md,papers/2023/A/A23102470073.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,A,A23102480015,,,,,,,,,,,,,,,,,,knowledge_base/2023/A/A23102480015.md,papers/2023/A/A23102480015.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,A,A23102860239,,,,,,,,,,,,,,,,,,knowledge_base/2023/A/A23102860239.md,papers/2023/A/A23102860239.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
@@ -51,7 +51,7 @@ year,question,paper_id,title,problem_types,overall_pipeline,q1_task,q1_methods,q
 2023,A,A23104220005,,,,,,,,,,,,,,,,,,knowledge_base/2023/A/A23104220005.md,papers/2023/A/A23104220005.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,A,A23104860166,,,,,,,,,,,,,,,,,,knowledge_base/2023/A/A23104860166.md,papers/2023/A/A23104860166.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,A,A23105330383,,,,,,,,,,,,,,,,,,knowledge_base/2023/A/A23105330383.md,papers/2023/A/A23105330383.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
-2023,B,B23100070010,,,,,,,,,,,,,,,,,,knowledge_base/2023/B/B23100070010.md,papers/2023/B/B23100070010.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
+2023,B,B23100070010,DFT类矩阵的整数分解逼近,结构化矩阵;稀疏分解;量化约束;复杂度优化,蝶形结构→稀疏因子→量化投影→Kronecker传播→精度复杂度权衡,稀疏连乘分解,Cooley-Tukey;解析构造,元素取值受限,PALM;投影;分层递归,稀疏与量化叠加,解析与优化双路线,Kronecker及阈值任务,丢番图逼近;遗传搜索;复杂度约束,Cooley-Tukey;PALM;投影;遗传算法,蝶形结构;稀疏支持;量化;RMSE;硬件复杂度,解析小例子;误差与复杂度对照;规模扩展,先数学结构再求解器;约束递进表;算法伪代码,结构优先;连续松弛后投影;Pareto权衡,信号处理;矩阵逼近;组合优化,knowledge_base/2023/B/B23100070010.md,papers/2023/B/B23100070010.pdf,partial,2026-09-22通读正文并核对PDF第2/9/19页,partial,chatgpt_review,2026-09-22
 2023,B,B23100070173,,,,,,,,,,,,,,,,,,knowledge_base/2023/B/B23100070173.md,papers/2023/B/B23100070173.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,B,B23102870003,,,,,,,,,,,,,,,,,,knowledge_base/2023/B/B23102870003.md,papers/2023/B/B23102870003.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,B,B23102870182,,,,,,,,,,,,,,,,,,knowledge_base/2023/B/B23102870182.md,papers/2023/B/B23102870182.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
@@ -60,7 +60,7 @@ year,question,paper_id,title,problem_types,overall_pipeline,q1_task,q1_methods,q
 2023,B,B23105580005,,,,,,,,,,,,,,,,,,knowledge_base/2023/B/B23105580005.md,papers/2023/B/B23105580005.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,B,B23106140164,,,,,,,,,,,,,,,,,,knowledge_base/2023/B/B23106140164.md,papers/2023/B/B23106140164.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,B,B23111170006,,,,,,,,,,,,,,,,,,knowledge_base/2023/B/B23111170006.md,papers/2023/B/B23111170006.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
-2023,C,C23102540029,,,,,,,,,,,,,,,,,,knowledge_base/2023/C/C23102540029.md,papers/2023/C/C23102540029.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
+2023,C,C23102540029,大规模创新类竞赛评审方案,0-1分配;多目标优化;评分校准;制度设计,公平维度→专家作品分配→评分修正→争议识别→两阶段评审,交叉均衡分配,0-1多目标;NSGA-II,专家评分校准,专业性/合理性指标;标准分,极差与创新关系,随机森林;分段关系,完整评审流程,两阶段分配;排名,0-1规划;NSGA-II;随机森林;遗传算法,公平操作化;二分图;评委偏差;争议度;代理标签,约束满足;负载/曝光分布;历史回放;敏感性,按制度目标组织四问;符号表;调整前后分布图,硬约束与软目标分离;评分与分配分离,资源分配;公平评价;制度优化,knowledge_base/2023/C/C23102540029.md,papers/2023/C/C23102540029.pdf,partial,2026-09-22通读正文并核对PDF第2/8/43页,partial,chatgpt_review,2026-09-22
 2023,C,C23102890004,,,,,,,,,,,,,,,,,,knowledge_base/2023/C/C23102890004.md,papers/2023/C/C23102890004.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,C,C23102980125,,,,,,,,,,,,,,,,,,knowledge_base/2023/C/C23102980125.md,papers/2023/C/C23102980125.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,C,C23103360083,,,,,,,,,,,,,,,,,,knowledge_base/2023/C/C23103360083.md,papers/2023/C/C23103360083.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
@@ -70,7 +70,7 @@ year,question,paper_id,title,problem_types,overall_pipeline,q1_task,q1_methods,q
 2023,C,C23106570312,,,,,,,,,,,,,,,,,,knowledge_base/2023/C/C23106570312.md,papers/2023/C/C23106570312.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,C,C23107120024,,,,,,,,,,,,,,,,,,knowledge_base/2023/C/C23107120024.md,papers/2023/C/C23107120024.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,C,C23910020010,,,,,,,,,,,,,,,,,,knowledge_base/2023/C/C23910020010.md,papers/2023/C/C23910020010.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
-2023,D,D23100060041,,,,,,,,,,,,,,,,,,knowledge_base/2023/D/D23100060041.md,papers/2023/D/D23100060041.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
+2023,D,D23100060041,区域双碳目标与路径规划,指标体系;长期预测;情景分析;政策路径,历史核算与关联→人口/经济/能源预测→碳预测→多情景→路径规划,现状与驱动分析,指标体系;趋势图;Spearman,能源与碳排放预测,线性/灰色/LSTM/ARIMA;PSO组合;岭回归,双碳路径规划,自然/基准/雄心/滞后情景;重点工程,,,灰色模型;ARIMA;LSTM;PSO;岭回归,核算边界;驱动变量;滚动回测;组合预测;条件情景,核算恒等式;回测;模型对比;情景敏感性,现状-预测-情景主线;分层路线图;政策图表,事实层预测层政策层分离;情景参数表,长期预测;情景规划;能源政策,knowledge_base/2023/D/D23100060041.md,papers/2023/D/D23100060041.pdf,partial,2026-09-22通读正文并核对PDF第2/7/45页,partial,chatgpt_review,2026-09-22
 2023,D,D23102690008,,,,,,,,,,,,,,,,,,knowledge_base/2023/D/D23102690008.md,papers/2023/D/D23102690008.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,D,D23102860126,,,,,,,,,,,,,,,,,,knowledge_base/2023/D/D23102860126.md,papers/2023/D/D23102860126.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,D,D23103560099,,,,,,,,,,,,,,,,,,knowledge_base/2023/D/D23103560099.md,papers/2023/D/D23103560099.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
@@ -79,7 +79,7 @@ year,question,paper_id,title,problem_types,overall_pipeline,q1_task,q1_methods,q
 2023,D,D23106350004,,,,,,,,,,,,,,,,,,knowledge_base/2023/D/D23106350004.md,papers/2023/D/D23106350004.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,D,D23106740070,,,,,,,,,,,,,,,,,,knowledge_base/2023/D/D23106740070.md,papers/2023/D/D23106740070.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,D,D23116460172,,,,,,,,,,,,,,,,,,knowledge_base/2023/D/D23116460172.md,papers/2023/D/D23116460172.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
-2023,E,E23100650012,,,,,,,,,,,,,,,,,,knowledge_base/2023/E/E23100650012.md,papers/2023/E/E23100650012.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
+2023,E,E23100650012,出血性脑卒中临床智能诊疗建模,医疗表格;事件风险;纵向轨迹;预后预测,患者时间轴→48h标签→风险预测→总体/亚组轨迹→预后与关联,血肿扩张风险,事件标签;特征过滤;KNN/SVM/RF/GBDT,水肿进展与亚组,非线性拟合;谱聚类;治疗关联,90天预后,Stacking;Borderline-SMOTE;随访特征;PCA,,,梯度提升;谱聚类;Stacking;SMOTE;PCA,患者级切分;不规则随访;轨迹异质性;校准;临床关联,患者级验证;消融;残差;聚类指标;分类指标,风险-轨迹-预后三链;数据概览;轨迹与伪代码,由总体残差触发亚组;预测时点区分;关联不等于因果,医疗风险;纵向数据;小样本分类,knowledge_base/2023/E/E23100650012.md,papers/2023/E/E23100650012.pdf,partial,2026-09-22通读正文并核对PDF第2/8/27页,partial,chatgpt_review,2026-09-22
 2023,E,E23102550019,,,,,,,,,,,,,,,,,,knowledge_base/2023/E/E23102550019.md,papers/2023/E/E23102550019.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,E,E23103530067,,,,,,,,,,,,,,,,,,knowledge_base/2023/E/E23103530067.md,papers/2023/E/E23103530067.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,E,E23103570015,,,,,,,,,,,,,,,,,,knowledge_base/2023/E/E23103570015.md,papers/2023/E/E23103570015.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
@@ -89,7 +89,7 @@ year,question,paper_id,title,problem_types,overall_pipeline,q1_task,q1_methods,q
 2023,E,E23106980022,,,,,,,,,,,,,,,,,,knowledge_base/2023/E/E23106980022.md,papers/2023/E/E23106980022.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,E,E23107030070,,,,,,,,,,,,,,,,,,knowledge_base/2023/E/E23107030070.md,papers/2023/E/E23107030070.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,E,E23900310014,,,,,,,,,,,,,,,,,,knowledge_base/2023/E/E23900310014.md,papers/2023/E/E23900310014.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
-2023,F,F23102520378,,,,,,,,,,,,,,,,,,knowledge_base/2023/F/F23102520378.md,papers/2023/F/F23102520378.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
+2023,F,F23102520378,强对流降水临近预报,多源雷达;时空预测;定量降水;资料贡献,雷达质控/微物理→时空预报→模糊修正→QPE→多源贡献,多变量雷达临近预报,U-Net;ConvLSTM;DGMR,缓解回归到平均,GAN;注意力;残差,定量降水估测,Z-R;深度QPE,偏振资料贡献,模糊AHP;熵权;TOPSIS;融合,U-Net;ConvLSTM;GAN;注意力;TOPSIS,事件切分;强回波;位置双罚;多源消融;业务阈值,按事件留出;POD/FAR/CSI;分提前量;消融,指标业务含义;机制图;Truth-模型-提前量结果矩阵,按观测-场-业务量-贡献分层;缺陷触发损失升级,时空预测;多源融合;气象预报,knowledge_base/2023/F/F23102520378.md,papers/2023/F/F23102520378.pdf,partial,2026-09-22通读正文并核对PDF第2/15/35页,partial,chatgpt_review,2026-09-22
 2023,F,F23102690048,,,,,,,,,,,,,,,,,,knowledge_base/2023/F/F23102690048.md,papers/2023/F/F23102690048.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,F,F23102860072,,,,,,,,,,,,,,,,,,knowledge_base/2023/F/F23102860072.md,papers/2023/F/F23102860072.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,
 2023,F,F23103560002,,,,,,,,,,,,,,,,,,knowledge_base/2023/F/F23103560002.md,papers/2023/F/F23103560002.pdf,pending_chatgpt_review,,pending_chatgpt_review,template_only,

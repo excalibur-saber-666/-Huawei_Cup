@@ -63,6 +63,10 @@
 - A24103350007（partial）：[经验卡](../paper_notes/2024/A/A24103350007.md) · [source_md](../knowledge_base/2024/A/A24103350007.md)
 - C24104220149（partial）：[经验卡](../paper_notes/2024/C/C24104220149.md) · [source_md](../knowledge_base/2024/C/C24104220149.md)
 
+### RMSE
+
+- B23100070010（partial）：[经验卡](../paper_notes/2023/B/B23100070010.md) · [source_md](../knowledge_base/2023/B/B23100070010.md)
+
 ### RSSI/SINR
 
 - B24102860287（partial）：[经验卡](../paper_notes/2024/B/B24102860287.md) · [source_md](../knowledge_base/2024/B/B24102860287.md)
@@ -87,13 +91,37 @@
 
 - 2025-C-005（partial）：[经验卡](../paper_notes/2025/C/2025-C-005.md) · [source_md](../knowledge_base/2025/C/C%E9%A2%98-%E5%9F%BA%E4%BA%8E%E9%92%BB%E5%AD%94%E8%A3%82%E9%9A%99%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E7%9A%84%E5%B2%A9%E4%BD%93%E7%BB%93%E6%9E%84%E9%9D%A2%E7%BD%91%E7%BB%9C%E9%87%8D%E6%9E%84%E4%B8%8E%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%86%E5%8C%BA%E7%A0%94%E7%A9%B6.md)
 
+### 不规则随访
+
+- E23100650012（partial）：[经验卡](../paper_notes/2023/E/E23100650012.md) · [source_md](../knowledge_base/2023/E/E23100650012.md)
+
+### 业务阈值
+
+- F23102520378（partial）：[经验卡](../paper_notes/2023/F/F23102520378.md) · [source_md](../knowledge_base/2023/F/F23102520378.md)
+
+### 临床关联
+
+- E23100650012（partial）：[经验卡](../paper_notes/2023/E/E23100650012.md) · [source_md](../knowledge_base/2023/E/E23100650012.md)
+
 ### 主动勘探
 
 - 2025-C-005（partial）：[经验卡](../paper_notes/2025/C/2025-C-005.md) · [source_md](../knowledge_base/2025/C/C%E9%A2%98-%E5%9F%BA%E4%BA%8E%E9%92%BB%E5%AD%94%E8%A3%82%E9%9A%99%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E7%9A%84%E5%B2%A9%E4%BD%93%E7%BB%93%E6%9E%84%E9%9D%A2%E7%BD%91%E7%BB%9C%E9%87%8D%E6%9E%84%E4%B8%8E%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%86%E5%8C%BA%E7%A0%94%E7%A9%B6.md)
 
+### 争议度
+
+- C23102540029（partial）：[经验卡](../paper_notes/2023/C/C23102540029.md) · [source_md](../knowledge_base/2023/C/C23102540029.md)
+
+### 事件切分
+
+- F23102520378（partial）：[经验卡](../paper_notes/2023/F/F23102520378.md) · [source_md](../knowledge_base/2023/F/F23102520378.md)
+
 ### 事件驱动仿真
 
 - 2025-A-001（partial）：[经验卡](../paper_notes/2025/A/2025-A-001.md) · [source_md](../knowledge_base/2025/A/A%E9%A2%98-1-%E9%80%9A%E7%94%A8%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%8B%E7%9A%84%E6%A0%B8%E5%86%85%E8%B0%83%E5%BA%A6%E9%97%AE%E9%A2%98.md)
+
+### 二分图
+
+- C23102540029（partial）：[经验卡](../paper_notes/2023/C/C23102540029.md) · [source_md](../knowledge_base/2023/C/C23102540029.md)
 
 ### 二维椭圆覆盖率
 
@@ -118,14 +146,23 @@
 ### 代理标签
 
 - 2025-D-002（partial）：[经验卡](../paper_notes/2025/D/2025-D-002.md) · [source_md](../knowledge_base/2025/D/D%E9%A2%98-%E5%9F%BA%E4%BA%8E%E5%A4%9A%E6%BA%90%E6%95%B0%E6%8D%AE%E8%9E%8D%E5%90%88%E7%9A%84%E4%BD%8E%E7%A9%BA%E6%B9%8D%E6%B5%81%E7%9B%91%E6%B5%8B%E4%B8%8E%E8%88%AA%E8%B7%AF%E4%BC%98%E5%8C%96.md)
+- C23102540029（partial）：[经验卡](../paper_notes/2023/C/C23102540029.md) · [source_md](../knowledge_base/2023/C/C23102540029.md)
 
 ### 代理量
 
 - 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
 
+### 位置双罚
+
+- F23102520378（partial）：[经验卡](../paper_notes/2023/F/F23102520378.md) · [source_md](../knowledge_base/2023/F/F23102520378.md)
+
 ### 全局约束
 
 - A24103530117（partial）：[经验卡](../paper_notes/2024/A/A24103530117.md) · [source_md](../knowledge_base/2024/A/A24103530117.md)
+
+### 公平操作化
+
+- C23102540029（partial）：[经验卡](../paper_notes/2023/C/C23102540029.md) · [source_md](../knowledge_base/2023/C/C23102540029.md)
 
 ### 公式还原
 
@@ -146,6 +183,10 @@
 ### 协变量混杂
 
 - C24102890089（partial）：[经验卡](../paper_notes/2024/C/C24102890089.md) · [source_md](../knowledge_base/2024/C/C24102890089.md)
+
+### 协议开销
+
+- A23100070049（partial）：[经验卡](../paper_notes/2023/A/A23100070049.md) · [source_md](../knowledge_base/2023/A/A23100070049.md)
 
 ### 压力测试
 
@@ -170,6 +211,10 @@
 ### 合法组合映射
 
 - B24116640167（partial）：[经验卡](../paper_notes/2024/B/B24116640167.md) · [source_md](../knowledge_base/2024/B/B24116640167.md)
+
+### 吞吐
+
+- A23100070049（partial）：[经验卡](../paper_notes/2023/A/A23100070049.md) · [source_md](../knowledge_base/2023/A/A23100070049.md)
 
 ### 图文一致性
 
@@ -208,6 +253,10 @@
 
 - B24104760033（partial）：[经验卡](../paper_notes/2024/B/B24104760033.md) · [source_md](../knowledge_base/2024/B/B24104760033.md)
 
+### 多源消融
+
+- F23102520378（partial）：[经验卡](../paper_notes/2023/F/F23102520378.md) · [source_md](../knowledge_base/2023/F/F23102520378.md)
+
 ### 多级缓存
 
 - 2025-A-001（partial）：[经验卡](../paper_notes/2025/A/2025-A-001.md) · [source_md](../knowledge_base/2025/A/A%E9%A2%98-1-%E9%80%9A%E7%94%A8%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%8B%E7%9A%84%E6%A0%B8%E5%86%85%E8%B0%83%E5%BA%A6%E9%97%AE%E9%A2%98.md)
@@ -224,6 +273,10 @@
 
 - A24102940057（partial）：[经验卡](../paper_notes/2024/A/A24102940057.md) · [source_md](../knowledge_base/2024/A/A24102940057.md)
 
+### 干扰图
+
+- A23100070049（partial）：[经验卡](../paper_notes/2023/A/A23100070049.md) · [source_md](../knowledge_base/2023/A/A23100070049.md)
+
 ### 序列结构
 
 - B24116640167（partial）：[经验卡](../paper_notes/2024/B/B24116640167.md) · [source_md](../knowledge_base/2024/B/B24116640167.md)
@@ -236,9 +289,17 @@
 
 - 2025-E-003（partial）：[经验卡](../paper_notes/2025/E/2025-E-003.md) · [source_md](../knowledge_base/2025/E/E%E9%A2%98-%E9%AB%98%E9%80%9F%E5%88%97%E8%BD%A6%E8%BD%B4%E6%89%BF%E6%99%BA%E8%83%BD%E6%95%85%E9%9A%9C%E8%AF%8A%E6%96%AD%E9%97%AE%E9%A2%98.md)
 
+### 强回波
+
+- F23102520378（partial）：[经验卡](../paper_notes/2023/F/F23102520378.md) · [source_md](../knowledge_base/2023/F/F23102520378.md)
+
 ### 形状先验
 
 - 2025-C-005（partial）：[经验卡](../paper_notes/2025/C/2025-C-005.md) · [source_md](../knowledge_base/2025/C/C%E9%A2%98-%E5%9F%BA%E4%BA%8E%E9%92%BB%E5%AD%94%E8%A3%82%E9%9A%99%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E7%9A%84%E5%B2%A9%E4%BD%93%E7%BB%93%E6%9E%84%E9%9D%A2%E7%BD%91%E7%BB%9C%E9%87%8D%E6%9E%84%E4%B8%8E%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%86%E5%8C%BA%E7%A0%94%E7%A9%B6.md)
+
+### 患者级切分
+
+- E23100650012（partial）：[经验卡](../paper_notes/2023/E/E23100650012.md) · [source_md](../knowledge_base/2023/E/E23100650012.md)
 
 ### 指标一致性
 
@@ -288,9 +349,21 @@
 
 - 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
 
+### 条件情景
+
+- D23100060041（partial）：[经验卡](../paper_notes/2023/D/D23100060041.md) · [source_md](../knowledge_base/2023/D/D23100060041.md)
+
 ### 构念效度
 
 - 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
+### 校准
+
+- E23100650012（partial）：[经验卡](../paper_notes/2023/E/E23100650012.md) · [source_md](../knowledge_base/2023/E/E23100650012.md)
+
+### 核算边界
+
+- D23100060041（partial）：[经验卡](../paper_notes/2023/D/D23100060041.md) · [source_md](../knowledge_base/2023/D/D23100060041.md)
 
 ### 概念操作化
 
@@ -315,6 +388,10 @@
 ### 滚动优化
 
 - A24103530117（partial）：[经验卡](../paper_notes/2024/A/A24103530117.md) · [source_md](../knowledge_base/2024/A/A24103530117.md)
+
+### 滚动回测
+
+- D23100060041（partial）：[经验卡](../paper_notes/2023/D/D23100060041.md) · [source_md](../knowledge_base/2023/D/D23100060041.md)
 
 ### 滚动预报
 
@@ -343,6 +420,14 @@
 ### 相关与因果
 
 - B24116640167（partial）：[经验卡](../paper_notes/2024/B/B24116640167.md) · [source_md](../knowledge_base/2024/B/B24116640167.md)
+
+### 硬件复杂度
+
+- B23100070010（partial）：[经验卡](../paper_notes/2023/B/B23100070010.md) · [source_md](../knowledge_base/2023/B/B23100070010.md)
+
+### 稀疏支持
+
+- B23100070010（partial）：[经验卡](../paper_notes/2023/B/B23100070010.md) · [source_md](../knowledge_base/2023/B/B23100070010.md)
 
 ### 空间泄漏
 
@@ -376,6 +461,10 @@
 ### 级联误差传播
 
 - B24103530099（partial）：[经验卡](../paper_notes/2024/B/B24103530099.md) · [source_md](../knowledge_base/2024/B/B24103530099.md)
+
+### 组合预测
+
+- D23100060041（partial）：[经验卡](../paper_notes/2023/D/D23100060041.md) · [source_md](../knowledge_base/2023/D/D23100060041.md)
 
 ### 组间泛化
 
@@ -417,6 +506,10 @@
 
 - 2025-D-002（partial）：[经验卡](../paper_notes/2025/D/2025-D-002.md) · [source_md](../knowledge_base/2025/D/D%E9%A2%98-%E5%9F%BA%E4%BA%8E%E5%A4%9A%E6%BA%90%E6%95%B0%E6%8D%AE%E8%9E%8D%E5%90%88%E7%9A%84%E4%BD%8E%E7%A9%BA%E6%B9%8D%E6%B5%81%E7%9B%91%E6%B5%8B%E4%B8%8E%E8%88%AA%E8%B7%AF%E4%BC%98%E5%8C%96.md)
 
+### 蝶形结构
+
+- B23100070010（partial）：[经验卡](../paper_notes/2023/B/B23100070010.md) · [source_md](../knowledge_base/2023/B/B23100070010.md)
+
 ### 观测算子
 
 - 2025-D-002（partial）：[经验卡](../paper_notes/2025/D/2025-D-002.md) · [source_md](../knowledge_base/2025/D/D%E9%A2%98-%E5%9F%BA%E4%BA%8E%E5%A4%9A%E6%BA%90%E6%95%B0%E6%8D%AE%E8%9E%8D%E5%90%88%E7%9A%84%E4%BD%8E%E7%A9%BA%E6%B9%8D%E6%B5%81%E7%9B%91%E6%B5%8B%E4%B8%8E%E8%88%AA%E8%B7%AF%E4%BC%98%E5%8C%96.md)
@@ -428,6 +521,10 @@
 ### 解释忠实度
 
 - 2025-E-003（partial）：[经验卡](../paper_notes/2025/E/2025-E-003.md) · [source_md](../knowledge_base/2025/E/E%E9%A2%98-%E9%AB%98%E9%80%9F%E5%88%97%E8%BD%A6%E8%BD%B4%E6%89%BF%E6%99%BA%E8%83%BD%E6%95%85%E9%9A%9C%E8%AF%8A%E6%96%AD%E9%97%AE%E9%A2%98.md)
+
+### 评委偏差
+
+- C23102540029（partial）：[经验卡](../paper_notes/2023/C/C23102540029.md) · [source_md](../knowledge_base/2023/C/C23102540029.md)
 
 ### 误差传播
 
@@ -445,9 +542,21 @@
 
 - A24103530117（partial）：[经验卡](../paper_notes/2024/A/A24103530117.md) · [source_md](../knowledge_base/2024/A/A24103530117.md)
 
+### 轨迹异质性
+
+- E23100650012（partial）：[经验卡](../paper_notes/2023/E/E23100650012.md) · [source_md](../knowledge_base/2023/E/E23100650012.md)
+
+### 载波侦听
+
+- A23100070049（partial）：[经验卡](../paper_notes/2023/A/A23100070049.md) · [source_md](../knowledge_base/2023/A/A23100070049.md)
+
 ### 过采样泄漏
 
 - B24103530099（partial）：[经验卡](../paper_notes/2024/B/B24103530099.md) · [source_md](../knowledge_base/2024/B/B24103530099.md)
+
+### 退避
+
+- A23100070049（partial）：[经验卡](../paper_notes/2023/A/A23100070049.md) · [source_md](../knowledge_base/2023/A/A23100070049.md)
 
 ### 适宜度
 
@@ -465,6 +574,10 @@
 
 - 2025-E-003（partial）：[经验卡](../paper_notes/2025/E/2025-E-003.md) · [source_md](../knowledge_base/2025/E/E%E9%A2%98-%E9%AB%98%E9%80%9F%E5%88%97%E8%BD%A6%E8%BD%B4%E6%89%BF%E6%99%BA%E8%83%BD%E6%95%85%E9%9A%9C%E8%AF%8A%E6%96%AD%E9%97%AE%E9%A2%98.md)
 
+### 量化
+
+- B23100070010（partial）：[经验卡](../paper_notes/2023/B/B23100070010.md) · [source_md](../knowledge_base/2023/B/B23100070010.md)
+
 ### 量纲
 
 - F24910020063（partial）：[经验卡](../paper_notes/2024/F/F24910020063.md) · [source_md](../knowledge_base/2024/F/F24910020063.md)
@@ -476,6 +589,10 @@
 ### 非补偿性
 
 - 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
+### 驱动变量
+
+- D23100060041（partial）：[经验卡](../paper_notes/2023/D/D23100060041.md) · [source_md](../knowledge_base/2023/D/D23100060041.md)
 
 ### 鲁棒调度
 
