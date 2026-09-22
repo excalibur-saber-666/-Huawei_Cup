@@ -169,6 +169,7 @@
 
 - D23100060041（partial）：[经验卡](../paper_notes/2023/D/D23100060041.md) · [source_md](../knowledge_base/2023/D/D23100060041.md)
 - D24103850092（partial）：[经验卡](../paper_notes/2024/D/D24103850092.md) · [source_md](../knowledge_base/2024/D/D24103850092.md)
+- E22100160013（partial）：[经验卡](../paper_notes/2022/E/E22100160013.md) · [source_md](../knowledge_base/2022/E/E22100160013.md)
 
 ### AdaBoost
 
@@ -216,6 +217,10 @@
 
 - B23100070010（partial）：[经验卡](../paper_notes/2023/B/B23100070010.md) · [source_md](../knowledge_base/2023/B/B23100070010.md)
 
+### DAG
+
+- D22102920026（partial）：[经验卡](../paper_notes/2022/D/D22102920026.md) · [source_md](../knowledge_base/2022/D/D22102920026.md)
+
 ### DANN
 
 - 2025-E-003（partial）：[经验卡](../paper_notes/2025/E/2025-E-003.md) · [source_md](../knowledge_base/2025/E/E%E9%A2%98-%E9%AB%98%E9%80%9F%E5%88%97%E8%BD%A6%E8%BD%B4%E6%89%BF%E6%99%BA%E8%83%BD%E6%95%85%E9%9A%9C%E8%AF%8A%E6%96%AD%E9%97%AE%E9%A2%98.md)
@@ -229,6 +234,10 @@
 ### DeepLabV3+
 
 - 2025-C-005（partial）：[经验卡](../paper_notes/2025/C/2025-C-005.md) · [source_md](../knowledge_base/2025/C/C%E9%A2%98-%E5%9F%BA%E4%BA%8E%E9%92%BB%E5%AD%94%E8%A3%82%E9%9A%99%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E7%9A%84%E5%B2%A9%E4%BD%93%E7%BB%93%E6%9E%84%E9%9D%A2%E7%BD%91%E7%BB%9C%E9%87%8D%E6%9E%84%E4%B8%8E%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%86%E5%8C%BA%E7%A0%94%E7%A9%B6.md)
+
+### Dijkstra
+
+- F22100090053（partial）：[经验卡](../paper_notes/2022/F/F22100090053.md) · [source_md](../knowledge_base/2022/F/F22100090053.md)
 
 ### EESM
 
@@ -283,6 +292,10 @@
 
 - C24106130096（partial）：[经验卡](../paper_notes/2024/C/C24106130096.md) · [source_md](../knowledge_base/2024/C/C24106130096.md)
 
+### HVRP
+
+- F22100090053（partial）：[经验卡](../paper_notes/2022/F/F22100090053.md) · [source_md](../knowledge_base/2022/F/F22100090053.md)
+
 ### Hilbert
 
 - 2025-E-003（partial）：[经验卡](../paper_notes/2025/E/2025-E-003.md) · [source_md](../knowledge_base/2025/E/E%E9%A2%98-%E9%AB%98%E9%80%9F%E5%88%97%E8%BD%A6%E8%BD%B4%E6%89%BF%E6%99%BA%E8%83%BD%E6%95%85%E9%9A%9C%E8%AF%8A%E6%96%AD%E9%97%AE%E9%A2%98.md)
@@ -302,6 +315,10 @@
 ### Jaccard
 
 - 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
+
+### K-means
+
+- F22100090053（partial）：[经验卡](../paper_notes/2022/F/F22100090053.md) · [source_md](../knowledge_base/2022/F/F22100090053.md)
 
 ### KNN
 
@@ -324,6 +341,7 @@
 - A24107120016（partial）：[经验卡](../paper_notes/2024/A/A24107120016.md) · [source_md](../knowledge_base/2024/A/A24107120016.md)
 - B24116640167（partial）：[经验卡](../paper_notes/2024/B/B24116640167.md) · [source_md](../knowledge_base/2024/B/B24116640167.md)
 - D23100060041（partial）：[经验卡](../paper_notes/2023/D/D23100060041.md) · [source_md](../knowledge_base/2023/D/D23100060041.md)
+- E22100160013（partial）：[经验卡](../paper_notes/2022/E/E22100160013.md) · [source_md](../knowledge_base/2022/E/E22100160013.md)
 
 ### MLP
 
@@ -384,6 +402,7 @@
 
 - B24116640167（partial）：[经验卡](../paper_notes/2024/B/B24116640167.md) · [source_md](../knowledge_base/2024/B/B24116640167.md)
 - C24104220149（partial）：[经验卡](../paper_notes/2024/C/C24104220149.md) · [source_md](../knowledge_base/2024/C/C24104220149.md)
+- E22100160013（partial）：[经验卡](../paper_notes/2022/E/E22100160013.md) · [source_md](../knowledge_base/2022/E/E22100160013.md)
 - E23100650012（partial）：[经验卡](../paper_notes/2023/E/E23100650012.md) · [source_md](../knowledge_base/2023/E/E23100650012.md)
 
 ### PSO
@@ -416,6 +435,10 @@
 ### SHAP
 
 - 2025-E-003（partial）：[经验卡](../paper_notes/2025/E/2025-E-003.md) · [source_md](../knowledge_base/2025/E/E%E9%A2%98-%E9%AB%98%E9%80%9F%E5%88%97%E8%BD%A6%E8%BD%B4%E6%89%BF%E6%99%BA%E8%83%BD%E6%95%85%E9%9A%9C%E8%AF%8A%E6%96%AD%E9%97%AE%E9%A2%98.md)
+
+### SIR
+
+- F22100090053（partial）：[经验卡](../paper_notes/2022/F/F22100090053.md) · [source_md](../knowledge_base/2022/F/F22100090053.md)
 
 ### SLSQP
 
@@ -505,6 +528,10 @@
 
 - E24102910005（partial）：[经验卡](../paper_notes/2024/E/E24102910005.md) · [source_md](../knowledge_base/2024/E/E24102910005.md)
 
+### list scheduling
+
+- D22102920026（partial）：[经验卡](../paper_notes/2022/D/D22102920026.md) · [source_md](../knowledge_base/2022/D/D22102920026.md)
+
 ### rounding
 
 - 2025-A-001（partial）：[经验卡](../paper_notes/2025/A/2025-A-001.md) · [source_md](../knowledge_base/2025/A/A%E9%A2%98-1-%E9%80%9A%E7%94%A8%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%8B%E7%9A%84%E6%A0%B8%E5%86%85%E8%B0%83%E5%BA%A6%E9%97%AE%E9%A2%98.md)
@@ -520,6 +547,10 @@
 ### 交通流模型
 
 - E24102910005（partial）：[经验卡](../paper_notes/2024/E/E24102910005.md) · [source_md](../knowledge_base/2024/E/E24102910005.md)
+
+### 优先级队列
+
+- D22102920026（partial）：[经验卡](../paper_notes/2022/D/D22102920026.md) · [source_md](../knowledge_base/2022/D/D22102920026.md)
 
 ### 余弦相似度
 
@@ -606,9 +637,17 @@
 
 - A24102940057（partial）：[经验卡](../paper_notes/2024/A/A24102940057.md) · [source_md](../knowledge_base/2024/A/A24102940057.md)
 
+### 微分方程
+
+- E22100160013（partial）：[经验卡](../paper_notes/2022/E/E22100160013.md) · [source_md](../knowledge_base/2022/E/E22100160013.md)
+
 ### 投影
 
 - B23100070010（partial）：[经验卡](../paper_notes/2023/B/B23100070010.md) · [source_md](../knowledge_base/2023/B/B23100070010.md)
+
+### 拓扑排序
+
+- D22102920026（partial）：[经验卡](../paper_notes/2022/D/D22102920026.md) · [source_md](../knowledge_base/2022/D/D22102920026.md)
 
 ### 时间尺度
 
@@ -629,6 +668,7 @@
 ### 模拟退火
 
 - 2025-A-001（partial）：[经验卡](../paper_notes/2025/A/2025-A-001.md) · [source_md](../knowledge_base/2025/A/A%E9%A2%98-1-%E9%80%9A%E7%94%A8%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%8B%E7%9A%84%E6%A0%B8%E5%86%85%E8%B0%83%E5%BA%A6%E9%97%AE%E9%A2%98.md)
+- F22100090053（partial）：[经验卡](../paper_notes/2022/F/F22100090053.md) · [source_md](../knowledge_base/2022/F/F22100090053.md)
 
 ### 残差网络
 
@@ -642,6 +682,10 @@
 
 - B22100070171（partial）：[经验卡](../paper_notes/2022/B/B22100070171.md) · [source_md](../knowledge_base/2022/B/B22100070171.md)
 
+### 混沌序列
+
+- C22103190082（partial）：[经验卡](../paper_notes/2022/C/C22103190082.md) · [source_md](../knowledge_base/2022/C/C22103190082.md)
+
 ### 灰色模型
 
 - D23100060041（partial）：[经验卡](../paper_notes/2023/D/D23100060041.md) · [source_md](../knowledge_base/2023/D/D23100060041.md)
@@ -649,6 +693,7 @@
 ### 熵权法
 
 - D24103850092（partial）：[经验卡](../paper_notes/2024/D/D24103850092.md) · [source_md](../knowledge_base/2024/D/D24103850092.md)
+- F22100090053（partial）：[经验卡](../paper_notes/2022/F/F22100090053.md) · [source_md](../knowledge_base/2022/F/F22100090053.md)
 
 ### 物理指标
 
@@ -658,6 +703,11 @@
 
 - A22100070190（partial）：[经验卡](../paper_notes/2022/A/A22100070190.md) · [source_md](../knowledge_base/2022/A/A22100070190.md)
 
+### 目标规划
+
+- C22103190082（partial）：[经验卡](../paper_notes/2022/C/C22103190082.md) · [source_md](../knowledge_base/2022/C/C22103190082.md)
+- E22100160013（partial）：[经验卡](../paper_notes/2022/E/E22100160013.md) · [source_md](../knowledge_base/2022/E/E22100160013.md)
+
 ### 神经网络
 
 - B24104760033（partial）：[经验卡](../paper_notes/2024/B/B24104760033.md) · [source_md](../knowledge_base/2024/B/B24104760033.md)
@@ -665,6 +715,7 @@
 ### 离散事件仿真
 
 - A23100070049（partial）：[经验卡](../paper_notes/2023/A/A23100070049.md) · [source_md](../knowledge_base/2023/A/A23100070049.md)
+- C22103190082（partial）：[经验卡](../paper_notes/2022/C/C22103190082.md) · [source_md](../knowledge_base/2022/C/C22103190082.md)
 
 ### 空间平滑
 
@@ -690,7 +741,9 @@
 
 - A24107120016（partial）：[经验卡](../paper_notes/2024/A/A24107120016.md) · [source_md](../knowledge_base/2024/A/A24107120016.md)
 - B23100070010（partial）：[经验卡](../paper_notes/2023/B/B23100070010.md) · [source_md](../knowledge_base/2023/B/B23100070010.md)
+- C22103190082（partial）：[经验卡](../paper_notes/2022/C/C22103190082.md) · [source_md](../knowledge_base/2022/C/C22103190082.md)
 - C23102540029（partial）：[经验卡](../paper_notes/2023/C/C23102540029.md) · [source_md](../knowledge_base/2023/C/C23102540029.md)
+- F22100090053（partial）：[经验卡](../paper_notes/2022/F/F22100090053.md) · [source_md](../knowledge_base/2022/F/F22100090053.md)
 
 ### 随机森林
 

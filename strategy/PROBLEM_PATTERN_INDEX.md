@@ -234,6 +234,7 @@
 ### DAG调度
 
 - 2025-A-001（partial）：[经验卡](../paper_notes/2025/A/2025-A-001.md) · [source_md](../knowledge_base/2025/A/A%E9%A2%98-1-%E9%80%9A%E7%94%A8%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%8B%E7%9A%84%E6%A0%B8%E5%86%85%E8%B0%83%E5%BA%A6%E9%97%AE%E9%A2%98.md)
+- D22102920026（partial）：[经验卡](../paper_notes/2022/D/D22102920026.md) · [source_md](../knowledge_base/2022/D/D22102920026.md)
 
 ### MCS/NSS分类
 
@@ -335,6 +336,10 @@
 
 - B24104760033（partial）：[经验卡](../paper_notes/2024/B/B24104760033.md) · [source_md](../knowledge_base/2024/B/B24104760033.md)
 
+### 启发式优化
+
+- D22102920026（partial）：[经验卡](../paper_notes/2022/D/D22102920026.md) · [source_md](../knowledge_base/2022/D/D22102920026.md)
+
 ### 周期折叠
 
 - F24910020063（partial）：[经验卡](../paper_notes/2024/F/F24910020063.md) · [source_md](../knowledge_base/2024/F/F24910020063.md)
@@ -412,6 +417,11 @@
 ### 多目标调度
 
 - A24103350007（partial）：[经验卡](../paper_notes/2024/A/A24103350007.md) · [source_md](../knowledge_base/2024/A/A24103350007.md)
+- C22103190082（partial）：[经验卡](../paper_notes/2022/C/C22103190082.md) · [source_md](../knowledge_base/2022/C/C22103190082.md)
+
+### 多资源排布
+
+- D22102920026（partial）：[经验卡](../paper_notes/2022/D/D22102920026.md) · [source_md](../knowledge_base/2022/D/D22102920026.md)
 
 ### 定量降水
 
@@ -425,6 +435,10 @@
 
 - 2025-C-005（partial）：[经验卡](../paper_notes/2025/C/2025-C-005.md) · [source_md](../knowledge_base/2025/C/C%E9%A2%98-%E5%9F%BA%E4%BA%8E%E9%92%BB%E5%AD%94%E8%A3%82%E9%9A%99%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E7%9A%84%E5%B2%A9%E4%BD%93%E7%BB%93%E6%9E%84%E9%9D%A2%E7%BD%91%E7%BB%9C%E9%87%8D%E6%9E%84%E4%B8%8E%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%86%E5%8C%BA%E7%A0%94%E7%A9%B6.md)
 
+### 干预评估
+
+- F22100090053（partial）：[经验卡](../paper_notes/2022/F/F22100090053.md) · [source_md](../knowledge_base/2022/F/F22100090053.md)
+
 ### 序列回归
 
 - A24103350007（partial）：[经验卡](../paper_notes/2024/A/A24103350007.md) · [source_md](../knowledge_base/2024/A/A24103350007.md)
@@ -432,6 +446,10 @@
 ### 序贯实验设计
 
 - 2025-C-005（partial）：[经验卡](../paper_notes/2025/C/2025-C-005.md) · [source_md](../knowledge_base/2025/C/C%E9%A2%98-%E5%9F%BA%E4%BA%8E%E9%92%BB%E5%AD%94%E8%A3%82%E9%9A%99%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E7%9A%84%E5%B2%A9%E4%BD%93%E7%BB%93%E6%9E%84%E9%9D%A2%E7%BD%91%E7%BB%9C%E9%87%8D%E6%9E%84%E4%B8%8E%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%86%E5%8C%BA%E7%A0%94%E7%A9%B6.md)
+
+### 应急物流
+
+- F22100090053（partial）：[经验卡](../paper_notes/2022/F/F22100090053.md) · [source_md](../knowledge_base/2022/F/F22100090053.md)
 
 ### 影响因素分析
 
@@ -444,6 +462,10 @@
 ### 情景模拟
 
 - E24102910005（partial）：[经验卡](../paper_notes/2024/E/E24102910005.md) · [source_md](../knowledge_base/2024/E/E24102910005.md)
+
+### 承载力优化
+
+- E22100160013（partial）：[经验卡](../paper_notes/2022/E/E22100160013.md) · [source_md](../knowledge_base/2022/E/E22100160013.md)
 
 ### 抽象概念操作化
 
@@ -480,6 +502,10 @@
 ### 时空预测
 
 - F23102520378（partial）：[经验卡](../paper_notes/2023/F/F23102520378.md) · [source_md](../knowledge_base/2023/F/F23102520378.md)
+
+### 时间序列预测
+
+- E22100160013（partial）：[经验卡](../paper_notes/2022/E/E22100160013.md) · [source_md](../knowledge_base/2022/E/E22100160013.md)
 
 ### 时频特征分类
 
@@ -558,6 +584,10 @@
 
 - 2025-E-003（partial）：[经验卡](../paper_notes/2025/E/2025-E-003.md) · [source_md](../knowledge_base/2025/E/E%E9%A2%98-%E9%AB%98%E9%80%9F%E5%88%97%E8%BD%A6%E8%BD%B4%E6%89%BF%E6%99%BA%E8%83%BD%E6%95%85%E9%9A%9C%E8%AF%8A%E6%96%AD%E9%97%AE%E9%A2%98.md)
 
+### 生态机理
+
+- E22100160013（partial）：[经验卡](../paper_notes/2022/E/E22100160013.md) · [source_md](../knowledge_base/2022/E/E22100160013.md)
+
 ### 监控布点
 
 - E24102910005（partial）：[经验卡](../paper_notes/2024/E/E24102910005.md) · [source_md](../knowledge_base/2024/E/E24102910005.md)
@@ -569,6 +599,7 @@
 ### 离散事件仿真
 
 - A23100070049（partial）：[经验卡](../paper_notes/2023/A/A23100070049.md) · [source_md](../knowledge_base/2023/A/A23100070049.md)
+- C22103190082（partial）：[经验卡](../paper_notes/2022/C/C22103190082.md) · [source_md](../knowledge_base/2022/C/C22103190082.md)
 
 ### 稀疏分解
 
@@ -609,6 +640,7 @@
 ### 组合优化
 
 - B22100070171（partial）：[经验卡](../paper_notes/2022/B/B22100070171.md) · [source_md](../knowledge_base/2022/B/B22100070171.md)
+- C22103190082（partial）：[经验卡](../paper_notes/2022/C/C22103190082.md) · [source_md](../knowledge_base/2022/C/C22103190082.md)
 
 ### 经验式修正
 
@@ -635,6 +667,8 @@
 
 - 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
 - D24103850092（partial）：[经验卡](../paper_notes/2024/D/D24103850092.md) · [source_md](../knowledge_base/2024/D/D24103850092.md)
+- E22100160013（partial）：[经验卡](../paper_notes/2022/E/E22100160013.md) · [source_md](../knowledge_base/2022/E/E22100160013.md)
+- F22100090053（partial）：[经验卡](../paper_notes/2022/F/F22100090053.md) · [source_md](../knowledge_base/2022/F/F22100090053.md)
 
 ### 缓存优化
 
@@ -651,6 +685,10 @@
 ### 视频测量
 
 - E24102910005（partial）：[经验卡](../paper_notes/2024/E/E24102910005.md) · [source_md](../knowledge_base/2024/E/E24102910005.md)
+
+### 设施选址
+
+- F22100090053（partial）：[经验卡](../paper_notes/2022/F/F22100090053.md) · [source_md](../knowledge_base/2022/F/F22100090053.md)
 
 ### 评分校准
 
@@ -671,6 +709,10 @@
 ### 超分辨定位
 
 - A22100070190（partial）：[经验卡](../paper_notes/2022/A/A22100070190.md) · [source_md](../knowledge_base/2022/A/A22100070190.md)
+
+### 车辆路径
+
+- F22100090053（partial）：[经验卡](../paper_notes/2022/F/F22100090053.md) · [source_md](../knowledge_base/2022/F/F22100090053.md)
 
 ### 轨迹关联
 

@@ -65,6 +65,14 @@
 
 - 2025-B-003（partial）：[经验卡](../paper_notes/2025/B/2025-B-003.md) · [source_md](../knowledge_base/2025/B/B%E9%A2%98-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A9%B1%E5%8A%A8%E7%9A%84%E9%9D%A2%E5%90%91%20MIMO-OFDM%20%E7%9A%84%E9%93%BE%E8%B7%AF%E9%80%9F%E7%8E%87%E9%A2%84%E6%B5%8B.md)
 
+### PBS
+
+- C22103190082（partial）：[经验卡](../paper_notes/2022/C/C22103190082.md) · [source_md](../knowledge_base/2022/C/C22103190082.md)
+
+### PISA
+
+- D22102920026（partial）：[经验卡](../paper_notes/2022/D/D22102920026.md) · [source_md](../knowledge_base/2022/D/D22102920026.md)
+
 ### Pareto优化
 
 - C24102890089（partial）：[经验卡](../paper_notes/2024/C/C24102890089.md) · [source_md](../knowledge_base/2024/C/C24102890089.md)
@@ -83,9 +91,17 @@
 
 - B24102860287（partial）：[经验卡](../paper_notes/2024/B/B24102860287.md) · [source_md](../knowledge_base/2024/B/B24102860287.md)
 
+### SIC
+
+- E22100160013（partial）：[经验卡](../paper_notes/2022/E/E22100160013.md) · [source_md](../knowledge_base/2022/E/E22100160013.md)
+
 ### SINR
 
 - 2025-B-003（partial）：[经验卡](../paper_notes/2025/B/2025-B-003.md) · [source_md](../knowledge_base/2025/B/B%E9%A2%98-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A9%B1%E5%8A%A8%E7%9A%84%E9%9D%A2%E5%90%91%20MIMO-OFDM%20%E7%9A%84%E9%93%BE%E8%B7%AF%E9%80%9F%E7%8E%87%E9%A2%84%E6%B5%8B.md)
+
+### SOC
+
+- E22100160013（partial）：[经验卡](../paper_notes/2022/E/E22100160013.md) · [source_md](../knowledge_base/2022/E/E22100160013.md)
 
 ### buffer生命周期
 
@@ -172,6 +188,10 @@
 
 - F23102520378（partial）：[经验卡](../paper_notes/2023/F/F23102520378.md) · [source_md](../knowledge_base/2023/F/F23102520378.md)
 
+### 全N
+
+- E22100160013（partial）：[经验卡](../paper_notes/2022/E/E22100160013.md) · [source_md](../knowledge_base/2022/E/E22100160013.md)
+
 ### 全局约束
 
 - A24103530117（partial）：[经验卡](../paper_notes/2024/A/A24103530117.md) · [source_md](../knowledge_base/2024/A/A24103530117.md)
@@ -183,6 +203,10 @@
 ### 公式还原
 
 - C24106130096（partial）：[经验卡](../paper_notes/2024/C/C24106130096.md) · [source_md](../knowledge_base/2024/C/C24106130096.md)
+
+### 关键路径
+
+- D22102920026（partial）：[经验卡](../paper_notes/2022/D/D22102920026.md) · [source_md](../knowledge_base/2022/D/D22102920026.md)
 
 ### 冲击机理
 
@@ -215,6 +239,7 @@
 ### 反事实
 
 - E24102910005（partial）：[经验卡](../paper_notes/2024/E/E24102910005.md) · [source_md](../knowledge_base/2024/E/E24102910005.md)
+- F22100090053（partial）：[经验卡](../paper_notes/2022/F/F22100090053.md) · [source_md](../knowledge_base/2022/F/F22100090053.md)
 
 ### 变转速阶次
 
@@ -223,6 +248,10 @@
 ### 可行性检查
 
 - A24107120016（partial）：[经验卡](../paper_notes/2024/A/A24107120016.md) · [source_md](../knowledge_base/2024/A/A24107120016.md)
+
+### 可行性解码
+
+- C22103190082（partial）：[经验卡](../paper_notes/2022/C/C22103190082.md) · [source_md](../knowledge_base/2022/C/C22103190082.md)
 
 ### 各向异性
 
@@ -277,6 +306,14 @@
 
 - F23102520378（partial）：[经验卡](../paper_notes/2023/F/F23102520378.md) · [source_md](../knowledge_base/2023/F/F23102520378.md)
 
+### 多目标评分
+
+- C22103190082（partial）：[经验卡](../paper_notes/2022/C/C22103190082.md) · [source_md](../knowledge_base/2022/C/C22103190082.md)
+
+### 多级物流
+
+- F22100090053（partial）：[经验卡](../paper_notes/2022/F/F22100090053.md) · [source_md](../knowledge_base/2022/F/F22100090053.md)
+
 ### 多级缓存
 
 - 2025-A-001（partial）：[经验卡](../paper_notes/2025/A/2025-A-001.md) · [source_md](../knowledge_base/2025/A/A%E9%A2%98-1-%E9%80%9A%E7%94%A8%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%8B%E7%9A%84%E6%A0%B8%E5%86%85%E8%B0%83%E5%BA%A6%E9%97%AE%E9%A2%98.md)
@@ -300,6 +337,10 @@
 ### 容量约束
 
 - B22100070171（partial）：[经验卡](../paper_notes/2022/B/B22100070171.md) · [source_md](../knowledge_base/2022/B/B22100070171.md)
+
+### 容量路径
+
+- F22100090053（partial）：[经验卡](../paper_notes/2022/F/F22100090053.md) · [source_md](../knowledge_base/2022/F/F22100090053.md)
 
 ### 干扰图
 
@@ -333,6 +374,10 @@
 
 - B24116640167（partial）：[经验卡](../paper_notes/2024/B/B24116640167.md) · [source_md](../knowledge_base/2024/B/B24116640167.md)
 
+### 控制依赖
+
+- D22102920026（partial）：[经验卡](../paper_notes/2022/D/D22102920026.md) · [source_md](../knowledge_base/2022/D/D22102920026.md)
+
 ### 故障特征频率
 
 - 2025-E-003（partial）：[经验卡](../paper_notes/2025/E/2025-E-003.md) · [source_md](../knowledge_base/2025/E/E%E9%A2%98-%E9%AB%98%E9%80%9F%E5%88%97%E8%BD%A6%E8%BD%B4%E6%89%BF%E6%99%BA%E8%83%BD%E6%95%85%E9%9A%9C%E8%AF%8A%E6%96%AD%E9%97%AE%E9%A2%98.md)
@@ -340,6 +385,10 @@
 ### 数值稳定性
 
 - F24910020063（partial）：[经验卡](../paper_notes/2024/F/F24910020063.md) · [source_md](../knowledge_base/2024/F/F24910020063.md)
+
+### 数据依赖
+
+- D22102920026（partial）：[经验卡](../paper_notes/2022/D/D22102920026.md) · [source_md](../knowledge_base/2022/D/D22102920026.md)
 
 ### 数据同化
 
@@ -381,6 +430,10 @@
 
 - D23100060041（partial）：[经验卡](../paper_notes/2023/D/D23100060041.md) · [source_md](../knowledge_base/2023/D/D23100060041.md)
 
+### 板结化
+
+- E22100160013（partial）：[经验卡](../paper_notes/2022/E/E22100160013.md) · [source_md](../knowledge_base/2022/E/E22100160013.md)
+
 ### 构念效度
 
 - 2025-F-004（partial）：[经验卡](../paper_notes/2025/F/2025-F-004.md) · [source_md](../knowledge_base/2025/F/F%E9%A2%98-%E6%B1%9F%E5%8D%97%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97%E7%BE%8E%E5%AD%A6%E7%89%B9%E5%BE%81%E7%9A%84%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90.md)
@@ -409,6 +462,14 @@
 
 - A24107120016（partial）：[经验卡](../paper_notes/2024/A/A24107120016.md) · [source_md](../knowledge_base/2024/A/A24107120016.md)
 
+### 水分平衡
+
+- E22100160013（partial）：[经验卡](../paper_notes/2022/E/E22100160013.md) · [source_md](../knowledge_base/2022/E/E22100160013.md)
+
+### 沙漠化
+
+- E22100160013（partial）：[经验卡](../paper_notes/2022/E/E22100160013.md) · [source_md](../knowledge_base/2022/E/E22100160013.md)
+
 ### 滑动窗口
 
 - A24103350007（partial）：[经验卡](../paper_notes/2024/A/A24103350007.md) · [source_md](../knowledge_base/2024/A/A24103350007.md)
@@ -436,6 +497,14 @@
 ### 特征选择泄漏
 
 - C24104220149（partial）：[经验卡](../paper_notes/2024/C/C24104220149.md) · [source_md](../knowledge_base/2024/C/C24104220149.md)
+
+### 状态转移
+
+- C22103190082（partial）：[经验卡](../paper_notes/2022/C/C22103190082.md) · [source_md](../knowledge_base/2022/C/C22103190082.md)
+
+### 生物量
+
+- E22100160013（partial）：[经验卡](../paper_notes/2022/E/E22100160013.md) · [source_md](../knowledge_base/2022/E/E22100160013.md)
 
 ### 目标泄漏
 
@@ -558,6 +627,10 @@
 
 - B22100070171（partial）：[经验卡](../paper_notes/2022/B/B22100070171.md) · [source_md](../knowledge_base/2022/B/B22100070171.md)
 
+### 设施选址
+
+- F22100090053（partial）：[经验卡](../paper_notes/2022/F/F22100090053.md) · [source_md](../knowledge_base/2022/F/F22100090053.md)
+
 ### 评委偏差
 
 - C23102540029（partial）：[经验卡](../paper_notes/2023/C/C23102540029.md) · [source_md](../knowledge_base/2023/C/C23102540029.md)
@@ -569,6 +642,10 @@
 ### 误差量级
 
 - F24910020063（partial）：[经验卡](../paper_notes/2024/F/F24910020063.md) · [source_md](../knowledge_base/2024/F/F24910020063.md)
+
+### 资源瓶颈
+
+- D22102920026（partial）：[经验卡](../paper_notes/2022/D/D22102920026.md) · [source_md](../knowledge_base/2022/D/D22102920026.md)
 
 ### 趋势-残差分解
 
@@ -625,6 +702,10 @@
 ### 阈值过拟合
 
 - E24102910005（partial）：[经验卡](../paper_notes/2024/E/E24102910005.md) · [source_md](../knowledge_base/2024/E/E24102910005.md)
+
+### 需求配置
+
+- F22100090053（partial）：[经验卡](../paper_notes/2022/F/F22100090053.md) · [source_md](../knowledge_base/2022/F/F22100090053.md)
 
 ### 非补偿性
 
