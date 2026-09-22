@@ -13,11 +13,12 @@
 | 合计 | 145 |
 
 - [历年论文索引](knowledge_base/INDEX.md) · [赛题目录](knowledge_base/QUESTION_CATALOG.md)
-- [完整方法论](strategy/MASTER_MODELING_GUIDE.md) · [题型方法速查](strategy/PROBLEM_METHOD_QUICK_REFERENCE.md) · [建模手册](strategy/MODELING_PLAYBOOK.md)
+- [题型—解法—模型运用总指南](strategy/PROBLEM_METHOD_QUICK_REFERENCE.md) · [建模手册](strategy/MODELING_PLAYBOOK.md)
 - [题型索引](strategy/PROBLEM_PATTERN_INDEX.md) · [方法索引](strategy/METHOD_INDEX.md) · [知识领域入口](strategy/KNOWLEDGE_INDEX.md)
 - [验证指南](strategy/VALIDATION_GUIDE.md) · [可解释性指南](strategy/EXPLAINABILITY_GUIDE.md) · [写作指南](strategy/WRITING_GUIDE.md) · [图表与机制图指南](strategy/FIGURE_DIAGRAM_GUIDE.md)
 - [24 个赛题单元证据矩阵](strategy/ANNUAL_QUESTION_EVIDENCE_MATRIX.md) · [已核对案例](strategy/EVIDENCE_CASES.md) · [比赛十阶段工作流](strategy/COMPETITION_WORKFLOW.md)
-- [同题横向比较卡](question_notes/README.md) · [2023 建模与写作方法总结](strategy/2023_MODELING_LESSONS.md) · [V1 最终报告](reports/final_v1_report.md)
+- [同题横向比较卡](question_notes/README.md) · [2023 建模与写作方法总结](strategy/2023_MODELING_LESSONS.md) · [统一精读进度](reports/deep_reading_progress.md)
+- [论文格式与可编辑 Word 示例](templates/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AB%9E%E8%B5%9B%E8%AE%BA%E6%96%87%E6%A0%BC%E5%BC%8F%E8%A7%84%E8%8C%83%E4%B8%8E%E5%8F%AF%E7%BC%96%E8%BE%91%E7%A4%BA%E4%BE%8B.docx) · [PDF 页面抽查脚本](scripts/render_reading_pages.py)
 
 ## 比赛推荐使用流程
 
@@ -47,7 +48,8 @@
 - question_notes/：同题论文比较；当前有 2024 A—C 三张完整同题横向卡，以及 2023 A—F、2024 D—F、2025 A—F 共 15 张代表性精读题级卡。2023—2025 每个赛题均至少精读 1 篇代表论文。
 - strategy/：通用方法论和比赛指南；不等同于 145 篇论文的频率统计。
 - metadata/：稳定 manifest 与语义审阅队列。
-- reports/：转换、方法论审阅、语义状态与 V1 校验报告。
+- reports/：转换、语义状态与统一精读进度报告。
+- templates/：可直接编辑的论文格式示例；具体比赛仍以当届官方模板为准。
 
 ## 当前完成状态
 
